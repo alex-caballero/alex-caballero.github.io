@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Food Photography</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&family=Merriweather:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/css/style.css" />
+    <style>
+      .gallery img {
+        width: 100%;
+        height: auto;
+        cursor: pointer;
+        border-radius: 8px;
+        transition: transform 0.3s;
+      }
+
+      .gallery img:hover {
+        transform: scale(1.05);
+      }
+
+      .modal-img {
+        width: 100%;
+        height: auto;
+      }
+
+      .modal-caption {
+        margin-top: 10px;
+        color: #333;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header class="text-center py-4">
+      <h1 class="fw-bold">Food Photography</h1>
+      <h2 class="fs-4 text-muted">by Alex Caballero</h2>
+    </header>
+
+    <main class="container py-5">
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-4 gallery">
+        <!-- Images -->
+        <div class="col">
+          <img
+            src="/assets/food1.jpg"
+            alt="Chilaquiles"
+            data-caption="Chilaquiles: Mexican Breakfast Food"
+            onclick="openModal(this)"
+          />
+        </div>
+        <div class="col">
+          <img
+            src="/assets/food2.jpg"
+            alt="Hot & Sour Soup"
+            data-caption="Hot & Sour Soup: Indonesian restaurant in Amsterdam"
+            onclick="openModal(this)"
+          />
+        </div>
+        <div class="col">
+          <img
+            src="/assets/food3.jpg"
+            alt="Chilaquiles in CDMX"
+            data-caption="Chilaquiles in Mexico City: As you can tell, I love this dish"
+            onclick="openModal(this)"
+          />
+        </div>
+        <div class="col">
+          <img
+            src="/assets/food4.jpg"
+            alt="Berliner Ballen"
+            data-caption="Berliner Ballen: Pastry sold in Amsterdam"
+            onclick="openModal(this)"
+          />
+        </div>
+        <div class="col">
+          <img
+            src="/assets/food5.jpg"
+            alt="Iguana Dish"
+            data-caption="Iguana Dish: This was served to me in Curaçao and it was my first time trying Iguana"
+            onclick="openModal(this)"
+          />
+        </div>
+        <div class="col">
+          <img
+            src="/assets/food6.jpg"
+            alt="Pork Vermicelli"
+            data-caption="Pork Vermicelli: Vietnamese Restaurant in Houston"
+            onclick="openModal(this)"
+          />
+        </div>
+      </div>
+    </main>
+
+    <!-- Modal -->
+    <div
+      class="modal fade"
+      id="photoModal"
+      tabindex="-1"
+      aria-labelledby="photoModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content text-center p-3">
+          <img src="" id="modalImage" class="modal-img" alt="" />
+          <p id="modalCaption" class="modal-caption"></p>
+          <button
+            type="button"
+            class="btn btn-outline-dark mt-2"
+            data-bs-dismiss="modal"
+          >
+            Close
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+      function openModal(img) {
+        const modal = new bootstrap.Modal(
+          document.getElementById("photoModal")
+        );
+        document.getElementById("modalImage").src = img.src;
+        document.getElementById("modalCaption").innerText = img.dataset.caption;
+        modal.show();
+      }
+    </script>
+  </body>
+</html>

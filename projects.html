@@ -33,7 +33,7 @@
                 const artist = songEntries[i * 2 + 1]?.textContent.trim();
                 if (song && artist) {
                     const li = document.createElement('li');
-                    li.textContent = `${song} by ${artist}`;
+                    li.textContent = `<em>${song}</em> by ${artist}`;
                     results.appendChild(li);
                 }
             }
@@ -144,7 +144,7 @@
                     <iframe src="/assets/practice.slides(1).html" width="560" height="315" frameborder="0"
                         allowfullscreen></iframe>
 
-                    <h2>BillBoard Top 10 Songs On your Birthday</h2>
+                    <h2>🎵Javacript Scraper: Top 10 Songs On your Birthday</h2>
                     <p>Using Javacript, I created a scraper that pulls the top 10 songs from the week of your birthday.
                         Wait 30 seconds for it to load.
                     </p>

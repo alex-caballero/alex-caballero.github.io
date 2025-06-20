@@ -24,9 +24,8 @@
         if (data.songs && data.songs.length > 0) {
           data.songs.forEach(song => {
             const li = document.createElement('li');
-            const [number, rest] = song.split('. ');
             const [title, artist] = rest.split(' by ');
-    li.innerHTML = `<em>${title}</em> by ${artist}`;
+              i.innerHTML = `<em>${title}</em> by ${artist}`;
 
             results.appendChild(li);
           });

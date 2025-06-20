@@ -11,33 +11,30 @@
         rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
     <script>
-        async function getBillboard() {
-            const dateInput = document.getElementById('birthday').value;
-            const [year, month, day] = dateInput.split('-');
-            const chartDate = `${year}-${month}-${day}`;
+    async function getSongs() {
+      const birthday = document.getElementById('birthday').value;
+      const results = document.getElementById('results');
+      results.innerHTML = "<li>Loading...</li>";
 
-            const proxyUrl = "https://api.allorigins.win/raw?url=";
-            const targetUrl = `https://www.billboard.com/charts/hot-100/${chartDate}/`;
-            const response = await fetch(proxyUrl + encodeURIComponent(targetUrl));
-            const html = await response.text();
+      try {
+        const response = await fetch(`https://billboardbday.onrender.com/billboard?date=${birthday}`);
+        const data = await response.json();
+        results.innerHTML = "";
 
-            const parser = new DOMParser();
-            const doc = parser.parseFromString(html, 'text/html');
-            const songEntries = doc.querySelectorAll('li.o-chart-results-list__item h3.c-title');
-
-            const results = document.getElementById('results');
-            results.innerHTML = "";
-
-            for (let i = 0; i < 10; i++) {
-                const song = songEntries[i * 2]?.textContent.trim();
-                const artist = songEntries[i * 2 + 1]?.textContent.trim();
-                if (song && artist) {
-                    const li = document.createElement('li');
-                    li.textContent = `<em>${song}</em> by ${artist}`;
-                    results.appendChild(li);
-                }
-            }
+        if (data.songs && data.songs.length > 0) {
+          data.songs.forEach(song => {
+            const li = document.createElement('li');
+            li.textContent = song;
+            results.appendChild(li);
+          });
+        } else {
+          results.innerHTML = "<li>No songs found for this date.</li>";
         }
+      } catch (error) {
+        results.innerHTML = `<li>Error fetching songs. Please try again later.</li>`;
+        console.error(error);
+      }
+    }
     </script>
 </head>
 
@@ -144,13 +141,13 @@
                     <iframe src="/assets/practice.slides(1).html" width="560" height="315" frameborder="0"
                         allowfullscreen></iframe>
 
-                    <h2>🎵Javacript Scraper: Top 10 Songs On your Birthday</h2>
-                    <p>Using Javacript, I created a scraper that pulls the top 10 songs from the week of your birthday.
-                        Wait 30 seconds for it to load.
-                    </p>
-                    <input type="date" id="birthday" />
-                    <button onclick="getBillboard()">Get Top 10 Songs</button>
-                    <ol id="results"></ol>
+                    <h2>🎶 What Was #1 on Your Birthday?</h2>
+  <p>Enter your birth date to find the Billboard Top 10 songs from that day:</p>
+
+  <input type="date" id="birthday" />
+  <button onclick="getSongs()">Get Songs</button>
+
+  <ol id="results"></ol>
                     </p>
                 </section>
             </div>

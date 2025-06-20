@@ -25,9 +25,8 @@
           data.songs.forEach(song => {
             const li = document.createElement('li');
             const [title, artist] = rest.split(' by ');
-              i.innerHTML = `<em>${title}</em> by ${artist}`;
-
-            results.appendChild(li);
+              li.innerHTML = `<em>${title}</em> by ${artist}`;
+              results.appendChild(li);
           });
         } else {
           results.innerHTML = "<li>No songs found for this date.</li>";

@@ -6,39 +6,45 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Projects</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+    <!-- Load JS libraries in this order -->
+    <script src="https://d3js.org/d3.v7.min.js"></script> <!-- Updated to v7 -->
+    <script src="https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6.12/dist/plot.umd.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
     <link
         href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&family=Merriweather:wght@400;700&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
+
     <script>
-    async function getSongs() {
-      const birthday = document.getElementById('birthday').value;
-      const results = document.getElementById('results');
-      results.innerHTML = "<li>Loading...</li>";
+        async function getSongs() {
+            const birthday = document.getElementById('birthday').value;
+            const results = document.getElementById('results');
+            results.innerHTML = "<li>Loading...</li>";
 
-      try {
-        const response = await fetch(`https://billboardbday.onrender.com/billboard?date=${birthday}`);
-        const data = await response.json();
-        results.innerHTML = "";
+            try {
+                const response = await fetch(`https://billboardbday.onrender.com/billboard?date=${birthday}`);
+                const data = await response.json();
+                results.innerHTML = "";
 
-        if (data.songs && data.songs.length > 0) {
-          data.songs.forEach(song => {
-            const li = document.createElement('li');
-            li.innerHTML = formatSong(song);
-              results.appendChild(li);
-          });
-        } else {
-          results.innerHTML = "<li>No songs found for this date.</li>";
+                if (data.songs && data.songs.length > 0) {
+                    data.songs.forEach(song => {
+                        const li = document.createElement('li');
+                        li.innerHTML = formatSong(song);
+                        results.appendChild(li);
+                    });
+                } else {
+                    results.innerHTML = "<li>No songs found for this date.</li>";
+                }
+            } catch (error) {
+                results.innerHTML = `<li>Error fetching songs. Please try again later.</li>`;
+                console.error(error);
+            }
         }
-      } catch (error) {
-        results.innerHTML = `<li>Error fetching songs. Please try again later.</li>`;
-        console.error(error);
-      }
-    }
         function formatSong(song) {
-  const [title, artist] = song.split(' by ');
-  return `<em>${title}</em> by ${artist}`;
-}
+            const [title, artist] = song.split(' by ');
+            return `<em>${title}</em> by ${artist}`;
+        }
     </script>
 </head>
 
@@ -146,14 +152,36 @@
                         allowfullscreen></iframe>
 
                     <h2>🎶 What Was #1 on Your Birthday?</h2>
-  <p>Enter your birth date to find the Billboard Top 10 songs from that day:</p>
-  <input type="date" id="birthday" />
-  <button onclick="getSongs()">Get Songs</button>
-                                        <p>Enjoy a full-stack web app that fetches and displays the top 10 Billboard Hot 100 songs from a user's birth date. Built with Python (Flask) for backend web scraping, and JavaScript for frontend interactivity. This project demonstrates my ability to build and deploy real-time APIs, parse and clean live HTML data, and create responsive user experiences with clean, dynamic UI updates.</p>
+                    <p>Enter your birth date to find the Billboard Top 10 songs from that day:</p>
+                    <input type="date" id="birthday" />
+                    <button onclick="getSongs()">Get Songs</button>
+                    <p>Enjoy a full-stack web app that fetches and displays the top 10 Billboard Hot 100 songs from a
+                        user's birth date. Built with Python (Flask) for backend web scraping, and JavaScript for
+                        frontend interactivity. This project demonstrates my ability to build and deploy real-time APIs,
+                        parse and clean live HTML data, and create responsive user experiences with clean, dynamic UI
+                        updates.</p>
 
 
-  <ol id="results"></ol>
+                    <ol id="results"></ol>
                     </p>
+                    <h2>Sample Reporting Dashboard</h2>
+                    <p>Using CSV data, I generated these visaulatizions using javascript.</p>
+
+                    <div id="openRateChart" style="width: 100%; height: 500px;"></div>
+
+                    <!-- <div id="subjectLineChart" style="width: 100%; height: 600px;"></div>
+
+                    <div id="segmentChart" style="width: 100%; height: 600px;"></div> -->
+
+
+                    <div id="barChart"></div>
+
+                    <div id="subjectChart"></div>
+
+                    <div id="obsBox"></div>
+
+
+
                 </section>
             </div>
         </div>
@@ -165,5 +193,7 @@
         </p>
     </footer>
 </body>
+<!-- Your script file comes last -->
+<script defer src="/js/script.js"></script>
 
 </html>

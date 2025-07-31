@@ -46,6 +46,14 @@ class LanguageToggle {
 
     updatePageLanguage() {
         document.documentElement.lang = this.currentLang;
+        
+        // Track language toggle event in GA4
+        if (typeof gtag !== 'undefined') {
+            gtag('event', 'language_toggle', {
+                'language': this.currentLang,
+                'page_title': document.title
+            });
+        }
     }
 }
 
@@ -175,11 +183,20 @@ class PortfolioAnalytics {
 
         this.events.push(event);
         
-        // In production, send to analytics service
-        console.log('Analytics Event:', event);
+        // Send to Google Analytics 4
+        if (typeof gtag !== 'undefined') {
+            gtag('event', eventName, {
+                'session_id': this.sessionId,
+                'time_on_page': Math.round((Date.now() - this.startTime) / 1000),
+                ...data
+            });
+        }
         
         // Store in localStorage for demo purposes
         this.storeEventLocally(event);
+        
+        // Console log for debugging
+        console.log('Analytics Event:', event);
     }
 
     storeEventLocally(event) {

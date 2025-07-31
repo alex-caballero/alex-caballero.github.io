@@ -70,8 +70,16 @@ body {
 .language-toggle {
     position: fixed;
     top: 1rem;
-    right: 1rem;
+    left: 1rem;
     z-index: 1000;
+}
+
+/* Adjust language toggle position on mobile to avoid navigation */
+@media (max-width: 768px) {
+    .language-toggle {
+        top: 0.75rem;
+        left: 0.75rem;
+    }
 }
 
 .lang-btn {

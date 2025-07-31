@@ -13,6 +13,24 @@
     <link rel="canonical" href="https://alexcaballero.github.io/skills.html">
     <link rel="stylesheet" href="assets/css/style.css">
 
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TB1W9TJJF7"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-TB1W9TJJF7', {
+            'custom_map.content_group1': 'page_category',
+            'send_page_view': true
+        });
+        
+        // Track skills page views with custom event
+        gtag('event', 'page_view', {
+            'page_title': 'Technical Skills & Marketing Tools',
+            'page_category': 'skills'
+        });
+    </script>
+
     <!-- Schema Markup -->
     <script type="application/ld+json">
     {

@@ -1,0 +1,1001 @@
+campaign_id,subject_line,audience_segment,send_date,send_hour,emails_sent,opens,clicks,bounces
+CMP-0045,Open for a Surprise!,Cart Abandoners,2025-06-04,12,1377,319,59,11
+CMP-0048,Exclusive Offer Just for You,Loyal Customers,2025-05-05,13,1570,497,191,17
+CMP-0015,We Miss You – Come Back!,Cart Abandoners,2025-04-24,13,4863,1386,253,22
+CMP-0032,Special Discount Inside,Returning Customers,2025-05-10,13,1062,250,94,9
+CMP-0035,Free Shipping Ends Tonight,New Subscribers,2025-04-30,17,1167,209,43,9
+CMP-0031,You're Invited – RSVP Now!,Returning Customers,2025-06-08,8,5028,609,191,56
+CMP-0038,Back in Stock: Your Favorite Item,Loyal Customers,2025-06-07,18,5654,2118,775,99
+CMP-0020,Don't Miss Out on This Deal!,New Subscribers,2025-05-13,7,1905,589,234,27
+CMP-0018,Your Order Awaits,Loyal Customers,2025-03-29,17,7764,2528,926,114
+CMP-0027,Last Chance to Save,New Subscribers,2025-05-28,6,6822,1857,209,37
+CMP-0031,Your Order Awaits,New Subscribers,2025-03-29,20,3014,792,233,10
+CMP-0040,Don't Miss Out on This Deal!,Loyal Customers,2025-05-06,8,3616,970,326,29
+CMP-0005,Back in Stock: Your Favorite Item,Returning Customers,2025-04-10,20,8867,2704,741,80
+CMP-0033,Special Discount Inside,High Spenders,2025-03-27,12,9763,2537,429,129
+CMP-0033,Free Shipping Ends Tonight,High Spenders,2025-06-05,9,9849,3095,311,84
+CMP-0021,Last Chance to Save,Returning Customers,2025-05-21,19,5441,1043,232,37
+CMP-0012,Don't Miss Out on This Deal!,Loyal Customers,2025-05-03,8,9050,2730,1088,125
+CMP-0012,Your Order Awaits,New Subscribers,2025-04-03,12,2942,480,62,10
+CMP-0023,Back in Stock: Your Favorite Item,Loyal Customers,2025-03-28,16,6590,2145,517,113
+CMP-0039,Special Discount Inside,Loyal Customers,2025-05-13,9,5605,1782,380,0
+CMP-0049,Free Shipping Ends Tonight,Loyal Customers,2025-04-18,21,6987,1934,664,100
+CMP-0033,Open for a Surprise!,High Spenders,2025-03-28,7,7748,2663,308,123
+CMP-0004,Free Shipping Ends Tonight,High Spenders,2025-05-31,8,7738,1685,214,62
+CMP-0041,Free Shipping Ends Tonight,New Subscribers,2025-06-15,8,4954,1221,452,32
+CMP-0003,You're Invited – RSVP Now!,New Subscribers,2025-04-24,14,7416,1274,425,108
+CMP-0033,Open for a Surprise!,Cart Abandoners,2025-05-05,6,4097,1188,134,9
+CMP-0009,Don't Miss Out on This Deal!,Returning Customers,2025-03-31,6,2116,476,167,28
+CMP-0010,Your Order Awaits,Returning Customers,2025-06-06,12,9457,1700,253,36
+CMP-0001,Open for a Surprise!,Cart Abandoners,2025-04-26,21,9520,3072,1030,75
+CMP-0014,Open for a Surprise!,Cart Abandoners,2025-06-08,19,3918,1200,436,27
+CMP-0046,Free Shipping Ends Tonight,Returning Customers,2025-06-18,20,6773,1564,191,76
+CMP-0025,Your Order Awaits,Cart Abandoners,2025-06-06,9,8177,2363,753,70
+CMP-0002,You're Invited – RSVP Now!,Cart Abandoners,2025-04-03,19,1475,388,89,15
+CMP-0033,Back in Stock: Your Favorite Item,Cart Abandoners,2025-05-11,14,1662,432,68,7
+CMP-0003,Exclusive Offer Just for You,Cart Abandoners,2025-03-30,9,8734,2076,328,51
+CMP-0048,Exclusive Offer Just for You,Returning Customers,2025-06-10,13,3504,620,139,47
+CMP-0046,Your Order Awaits,High Spenders,2025-04-28,20,1430,231,26,29
+CMP-0025,Don't Miss Out on This Deal!,New Subscribers,2025-04-09,20,7355,1309,469,114
+CMP-0050,We Miss You – Come Back!,Cart Abandoners,2025-06-09,10,4626,1479,459,85
+CMP-0028,Last Chance to Save,Returning Customers,2025-04-25,6,6937,1666,427,90
+CMP-0028,Free Shipping Ends Tonight,Cart Abandoners,2025-05-24,9,3565,1078,245,45
+CMP-0007,Exclusive Offer Just for You,High Spenders,2025-06-16,12,8011,1901,425,29
+CMP-0022,Back in Stock: Your Favorite Item,New Subscribers,2025-05-03,22,7917,1811,226,69
+CMP-0013,Your Order Awaits,Cart Abandoners,2025-03-25,13,4060,916,293,80
+CMP-0032,Your Order Awaits,Cart Abandoners,2025-05-26,14,5195,1221,135,53
+CMP-0009,Your Order Awaits,New Subscribers,2025-04-28,13,3943,812,155,47
+CMP-0023,Last Chance to Save,Loyal Customers,2025-04-26,21,3552,1224,151,19
+CMP-0045,We Miss You – Come Back!,Cart Abandoners,2025-03-26,6,2689,791,219,15
+CMP-0003,Last Chance to Save,Returning Customers,2025-05-09,19,2394,505,89,28
+CMP-0005,Your Order Awaits,Loyal Customers,2025-04-23,20,8961,2782,336,60
+CMP-0020,Back in Stock: Your Favorite Item,High Spenders,2025-05-20,12,6073,961,202,68
+CMP-0049,Free Shipping Ends Tonight,New Subscribers,2025-05-28,14,7254,1664,221,58
+CMP-0022,Don't Miss Out on This Deal!,Cart Abandoners,2025-05-17,12,6104,1857,660,64
+CMP-0018,Back in Stock: Your Favorite Item,New Subscribers,2025-06-14,11,5138,1376,168,105
+CMP-0017,Don't Miss Out on This Deal!,Returning Customers,2025-05-25,17,5762,1287,383,48
+CMP-0050,You're Invited – RSVP Now!,New Subscribers,2025-06-17,20,8266,1350,163,54
+CMP-0024,Back in Stock: Your Favorite Item,High Spenders,2025-05-25,15,1249,279,42,23
+CMP-0037,We Miss You – Come Back!,High Spenders,2025-04-19,20,7128,1020,319,93
+CMP-0032,We Miss You – Come Back!,Cart Abandoners,2025-04-15,19,6630,1517,567,64
+CMP-0046,Exclusive Offer Just for You,Cart Abandoners,2025-06-17,21,2813,870,126,39
+CMP-0049,Exclusive Offer Just for You,New Subscribers,2025-05-05,12,3409,676,262,25
+CMP-0031,You're Invited – RSVP Now!,Returning Customers,2025-06-16,9,5750,1815,351,43
+CMP-0012,We Miss You – Come Back!,Returning Customers,2025-05-26,6,2747,597,224,26
+CMP-0015,Exclusive Offer Just for You,Returning Customers,2025-04-16,16,5101,1342,357,0
+CMP-0035,Free Shipping Ends Tonight,Loyal Customers,2025-05-18,19,3967,1365,170,29
+CMP-0027,You're Invited – RSVP Now!,Returning Customers,2025-05-28,19,5046,1675,188,63
+CMP-0040,Exclusive Offer Just for You,Cart Abandoners,2025-05-16,17,5690,1587,180,15
+CMP-0031,Don't Miss Out on This Deal!,High Spenders,2025-04-22,19,5026,1031,217,87
+CMP-0047,Back in Stock: Your Favorite Item,Returning Customers,2025-04-11,11,5307,995,332,71
+CMP-0006,Back in Stock: Your Favorite Item,Returning Customers,2025-04-14,7,2588,537,144,21
+CMP-0019,Last Chance to Save,Loyal Customers,2025-03-28,9,5123,915,99,51
+CMP-0037,Open for a Surprise!,Returning Customers,2025-04-19,11,4142,914,184,43
+CMP-0001,Special Discount Inside,Returning Customers,2025-04-09,15,3458,961,338,63
+CMP-0014,We Miss You – Come Back!,Loyal Customers,2025-05-02,18,6540,1404,493,44
+CMP-0035,Your Order Awaits,New Subscribers,2025-05-19,9,9750,2223,542,0
+CMP-0020,Last Chance to Save,Cart Abandoners,2025-04-03,11,5049,1569,195,51
+CMP-0045,Free Shipping Ends Tonight,Cart Abandoners,2025-03-26,12,3736,1246,484,54
+CMP-0024,Open for a Surprise!,New Subscribers,2025-06-10,17,3004,796,290,42
+CMP-0047,We Miss You – Come Back!,Loyal Customers,2025-04-07,16,3012,960,146,22
+CMP-0047,Last Chance to Save,Returning Customers,2025-03-31,11,5208,898,245,69
+CMP-0018,Don't Miss Out on This Deal!,Returning Customers,2025-05-17,19,2123,374,91,16
+CMP-0048,Special Discount Inside,Loyal Customers,2025-06-13,15,7113,2592,905,142
+CMP-0031,Special Discount Inside,High Spenders,2025-04-28,7,4752,1459,149,45
+CMP-0048,Exclusive Offer Just for You,New Subscribers,2025-03-25,14,3661,636,124,12
+CMP-0015,Exclusive Offer Just for You,High Spenders,2025-03-28,19,9780,2447,751,29
+CMP-0045,Exclusive Offer Just for You,Returning Customers,2025-05-17,15,9833,2542,565,123
+CMP-0034,Back in Stock: Your Favorite Item,Cart Abandoners,2025-03-29,10,2570,622,182,9
+CMP-0048,Don't Miss Out on This Deal!,Cart Abandoners,2025-05-02,19,7663,2236,638,68
+CMP-0016,Last Chance to Save,Loyal Customers,2025-05-12,14,8539,2703,761,143
+CMP-0027,We Miss You – Come Back!,Cart Abandoners,2025-04-16,22,3966,481,145,58
+CMP-0006,Open for a Surprise!,Loyal Customers,2025-04-12,18,9756,2321,811,94
+CMP-0009,Open for a Surprise!,High Spenders,2025-06-18,22,7618,1923,646,28
+CMP-0035,Don't Miss Out on This Deal!,Cart Abandoners,2025-04-30,20,6987,1777,441,25
+CMP-0020,Free Shipping Ends Tonight,High Spenders,2025-03-30,6,2826,763,194,35
+CMP-0043,Last Chance to Save,Cart Abandoners,2025-03-25,12,8983,2253,681,99
+CMP-0009,Your Order Awaits,New Subscribers,2025-06-17,19,6657,1249,220,60
+CMP-0030,Exclusive Offer Just for You,Loyal Customers,2025-03-26,15,1708,367,115,8
+CMP-0035,Your Order Awaits,High Spenders,2025-04-24,7,9885,3049,826,133
+CMP-0002,Back in Stock: Your Favorite Item,New Subscribers,2025-06-11,18,7424,2042,407,83
+CMP-0037,Free Shipping Ends Tonight,Returning Customers,2025-04-28,21,9118,2642,714,74
+CMP-0013,Last Chance to Save,Returning Customers,2025-04-14,13,2080,497,154,24
+CMP-0009,Last Chance to Save,New Subscribers,2025-03-30,12,4660,1515,432,66
+CMP-0010,You're Invited – RSVP Now!,Returning Customers,2025-05-26,17,3357,778,84,31
+CMP-0043,Free Shipping Ends Tonight,Returning Customers,2025-05-03,13,3829,884,105,20
+CMP-0032,We Miss You – Come Back!,Returning Customers,2025-04-16,8,1254,261,52,21
+CMP-0008,We Miss You – Come Back!,Loyal Customers,2025-04-25,10,4716,1430,382,47
+CMP-0017,Exclusive Offer Just for You,Returning Customers,2025-04-09,22,7245,1952,273,46
+CMP-0020,Free Shipping Ends Tonight,Cart Abandoners,2025-06-14,8,2392,601,93,52
+CMP-0010,Free Shipping Ends Tonight,High Spenders,2025-05-01,13,8151,2737,831,130
+CMP-0042,We Miss You – Come Back!,Cart Abandoners,2025-05-27,12,9111,2877,581,73
+CMP-0030,Special Discount Inside,Loyal Customers,2025-05-07,22,7911,1819,650,60
+CMP-0046,Special Discount Inside,Loyal Customers,2025-04-10,19,7326,2221,516,27
+CMP-0029,Free Shipping Ends Tonight,High Spenders,2025-04-03,10,6301,2189,264,137
+CMP-0041,We Miss You – Come Back!,Returning Customers,2025-04-14,9,7125,1795,334,103
+CMP-0049,Open for a Surprise!,High Spenders,2025-04-28,11,7402,1999,527,45
+CMP-0002,Free Shipping Ends Tonight,Loyal Customers,2025-06-11,11,9939,3688,588,113
+CMP-0022,You're Invited – RSVP Now!,Returning Customers,2025-05-18,22,9575,2214,859,40
+CMP-0005,We Miss You – Come Back!,Loyal Customers,2025-04-08,14,5981,2113,804,69
+CMP-0014,Your Order Awaits,New Subscribers,2025-04-17,21,9600,2068,650,91
+CMP-0026,Back in Stock: Your Favorite Item,High Spenders,2025-04-17,17,9410,2468,837,146
+CMP-0022,Open for a Surprise!,Loyal Customers,2025-06-16,19,1398,328,47,21
+CMP-0046,Exclusive Offer Just for You,Loyal Customers,2025-04-03,20,3835,1306,286,33
+CMP-0049,Last Chance to Save,High Spenders,2025-04-25,11,3091,758,204,47
+CMP-0031,Open for a Surprise!,Returning Customers,2025-03-25,9,1771,468,122,18
+CMP-0021,Special Discount Inside,New Subscribers,2025-05-16,14,1718,534,150,20
+CMP-0006,Your Order Awaits,New Subscribers,2025-03-31,8,8484,1843,550,111
+CMP-0024,Last Chance to Save,High Spenders,2025-05-12,6,2515,756,78,23
+CMP-0025,We Miss You – Come Back!,High Spenders,2025-05-17,22,9011,2871,461,84
+CMP-0040,Exclusive Offer Just for You,New Subscribers,2025-04-01,21,7121,1581,257,20
+CMP-0005,Your Order Awaits,Returning Customers,2025-05-18,8,4989,1073,150,48
+CMP-0015,Don't Miss Out on This Deal!,New Subscribers,2025-03-25,7,9252,1576,586,121
+CMP-0049,Last Chance to Save,High Spenders,2025-05-06,19,7519,1759,647,100
+CMP-0024,Your Order Awaits,High Spenders,2025-04-09,18,7743,1364,330,71
+CMP-0038,Back in Stock: Your Favorite Item,Returning Customers,2025-06-08,7,2954,928,370,15
+CMP-0031,Exclusive Offer Just for You,Loyal Customers,2025-04-17,14,3080,1142,160,32
+CMP-0001,We Miss You – Come Back!,New Subscribers,2025-03-27,17,9610,1916,238,108
+CMP-0013,Free Shipping Ends Tonight,Cart Abandoners,2025-06-12,7,5134,1472,184,23
+CMP-0027,Back in Stock: Your Favorite Item,Cart Abandoners,2025-04-12,11,7264,2199,251,50
+CMP-0034,Back in Stock: Your Favorite Item,Returning Customers,2025-04-15,10,7619,1902,671,81
+CMP-0036,Don't Miss Out on This Deal!,New Subscribers,2025-05-15,15,6536,1903,463,39
+CMP-0050,Don't Miss Out on This Deal!,Loyal Customers,2025-04-25,21,7857,2963,1182,63
+CMP-0036,You're Invited – RSVP Now!,Cart Abandoners,2025-04-30,11,7508,2092,211,90
+CMP-0001,Last Chance to Save,Returning Customers,2025-04-24,19,3734,893,175,39
+CMP-0019,Don't Miss Out on This Deal!,New Subscribers,2025-05-28,14,7422,2474,760,46
+CMP-0010,Open for a Surprise!,High Spenders,2025-04-09,11,7846,2052,725,77
+CMP-0021,Last Chance to Save,Loyal Customers,2025-04-13,14,7864,2384,744,56
+CMP-0025,You're Invited – RSVP Now!,Cart Abandoners,2025-06-18,10,6778,1967,601,53
+CMP-0049,Exclusive Offer Just for You,High Spenders,2025-05-25,13,8079,1649,296,109
+CMP-0046,We Miss You – Come Back!,New Subscribers,2025-03-29,19,4340,1122,367,60
+CMP-0002,Special Discount Inside,Cart Abandoners,2025-05-31,22,8708,2327,282,162
+CMP-0025,We Miss You – Come Back!,Cart Abandoners,2025-06-10,19,7125,1323,346,77
+CMP-0001,Don't Miss Out on This Deal!,Cart Abandoners,2025-06-01,14,4785,1808,457,55
+CMP-0041,Free Shipping Ends Tonight,High Spenders,2025-04-19,9,8067,2143,436,58
+CMP-0040,Free Shipping Ends Tonight,Loyal Customers,2025-03-28,20,4284,1220,207,45
+CMP-0032,Free Shipping Ends Tonight,High Spenders,2025-04-02,11,1128,322,57,4
+CMP-0035,Last Chance to Save,Cart Abandoners,2025-04-22,21,7667,2122,296,103
+CMP-0022,Back in Stock: Your Favorite Item,Returning Customers,2025-06-11,19,9935,2560,1003,74
+CMP-0028,Exclusive Offer Just for You,Loyal Customers,2025-04-30,14,5238,1285,141,56
+CMP-0024,Open for a Surprise!,Cart Abandoners,2025-04-25,11,8349,1975,684,72
+CMP-0003,Special Discount Inside,New Subscribers,2025-06-18,17,2026,339,112,18
+CMP-0023,We Miss You – Come Back!,Cart Abandoners,2025-06-12,20,6946,2245,855,73
+CMP-0002,We Miss You – Come Back!,New Subscribers,2025-04-21,17,9251,1656,428,106
+CMP-0001,Don't Miss Out on This Deal!,Returning Customers,2025-06-11,12,2793,767,239,28
+CMP-0006,Open for a Surprise!,Loyal Customers,2025-04-01,10,1198,375,76,3
+CMP-0029,Don't Miss Out on This Deal!,Returning Customers,2025-05-04,20,6485,2111,805,36
+CMP-0044,Back in Stock: Your Favorite Item,Cart Abandoners,2025-06-10,16,1116,387,52,11
+CMP-0041,Last Chance to Save,High Spenders,2025-06-14,16,5606,1058,287,91
+CMP-0039,Back in Stock: Your Favorite Item,New Subscribers,2025-03-30,17,3032,948,220,27
+CMP-0010,Open for a Surprise!,High Spenders,2025-03-30,15,2444,754,217,21
+CMP-0013,You're Invited – RSVP Now!,Cart Abandoners,2025-04-11,22,1691,558,105,25
+CMP-0044,You're Invited – RSVP Now!,New Subscribers,2025-04-22,17,6554,1308,316,13
+CMP-0038,Your Order Awaits,New Subscribers,2025-05-16,10,8878,2389,857,83
+CMP-0013,Back in Stock: Your Favorite Item,Cart Abandoners,2025-05-16,17,2121,834,325,40
+CMP-0014,Back in Stock: Your Favorite Item,Returning Customers,2025-03-31,15,7650,2031,359,66
+CMP-0027,You're Invited – RSVP Now!,Loyal Customers,2025-06-04,12,2896,1192,301,21
+CMP-0021,Free Shipping Ends Tonight,Returning Customers,2025-05-10,19,2025,424,105,37
+CMP-0039,You're Invited – RSVP Now!,Cart Abandoners,2025-05-20,22,7012,1404,470,76
+CMP-0046,Free Shipping Ends Tonight,New Subscribers,2025-03-22,8,8471,1513,589,109
+CMP-0005,Don't Miss Out on This Deal!,High Spenders,2025-04-11,17,9827,2470,881,14
+CMP-0039,Last Chance to Save,New Subscribers,2025-05-21,17,2194,476,127,27
+CMP-0034,Back in Stock: Your Favorite Item,High Spenders,2025-06-02,14,5554,1564,226,68
+CMP-0007,Last Chance to Save,Returning Customers,2025-04-26,21,4137,980,346,57
+CMP-0016,We Miss You – Come Back!,Returning Customers,2025-05-17,11,2917,508,82,29
+CMP-0003,You're Invited – RSVP Now!,Loyal Customers,2025-06-09,15,6741,1876,720,62
+CMP-0027,Back in Stock: Your Favorite Item,Loyal Customers,2025-05-18,20,7681,1829,512,96
+CMP-0003,Special Discount Inside,Returning Customers,2025-06-12,7,9393,1950,303,129
+CMP-0003,Exclusive Offer Just for You,Returning Customers,2025-05-06,14,1369,346,57,12
+CMP-0016,Don't Miss Out on This Deal!,High Spenders,2025-05-23,13,8365,2519,893,165
+CMP-0032,Special Discount Inside,New Subscribers,2025-05-23,13,3727,1037,182,36
+CMP-0050,Free Shipping Ends Tonight,Loyal Customers,2025-06-02,16,3566,1263,408,27
+CMP-0039,Exclusive Offer Just for You,Cart Abandoners,2025-05-19,16,4836,1286,136,52
+CMP-0048,Exclusive Offer Just for You,High Spenders,2025-05-20,12,4951,1285,373,71
+CMP-0050,Last Chance to Save,Cart Abandoners,2025-04-06,10,3758,866,175,34
+CMP-0031,Exclusive Offer Just for You,Returning Customers,2025-05-27,8,8639,2094,385,94
+CMP-0017,Exclusive Offer Just for You,Returning Customers,2025-04-19,21,2304,445,70,47
+CMP-0036,Last Chance to Save,Returning Customers,2025-06-02,22,8778,1877,529,130
+CMP-0047,Your Order Awaits,Loyal Customers,2025-06-14,16,9258,3114,898,3
+CMP-0044,Open for a Surprise!,Loyal Customers,2025-04-17,10,3041,755,82,8
+CMP-0032,We Miss You – Come Back!,Loyal Customers,2025-04-06,17,9467,3014,1070,135
+CMP-0031,Free Shipping Ends Tonight,Cart Abandoners,2025-05-21,14,4436,1426,518,39
+CMP-0046,Exclusive Offer Just for You,New Subscribers,2025-04-25,17,8745,2327,281,27
+CMP-0020,Your Order Awaits,Cart Abandoners,2025-04-21,14,7917,1826,725,77
+CMP-0011,Free Shipping Ends Tonight,Loyal Customers,2025-04-07,8,3769,1288,188,21
+CMP-0041,Exclusive Offer Just for You,Loyal Customers,2025-04-16,10,9055,2879,776,112
+CMP-0031,You're Invited – RSVP Now!,New Subscribers,2025-05-02,13,6864,1319,511,69
+CMP-0042,Last Chance to Save,High Spenders,2025-04-10,8,4333,984,179,52
+CMP-0014,We Miss You – Come Back!,Returning Customers,2025-04-24,6,9114,2844,1066,90
+CMP-0047,You're Invited – RSVP Now!,Returning Customers,2025-05-22,19,5496,2040,269,0
+CMP-0030,Last Chance to Save,High Spenders,2025-04-03,11,2136,557,194,9
+CMP-0016,Special Discount Inside,Loyal Customers,2025-06-07,18,8625,2592,776,137
+CMP-0022,Free Shipping Ends Tonight,Returning Customers,2025-03-31,17,8663,1868,436,65
+CMP-0044,Open for a Surprise!,Returning Customers,2025-06-03,18,9019,2926,1095,113
+CMP-0037,Your Order Awaits,High Spenders,2025-04-01,10,2105,555,195,32
+CMP-0047,Your Order Awaits,High Spenders,2025-04-11,8,7270,1803,637,64
+CMP-0043,Exclusive Offer Just for You,Cart Abandoners,2025-06-14,9,6372,1603,551,84
+CMP-0004,Free Shipping Ends Tonight,High Spenders,2025-04-15,16,8423,1277,387,29
+CMP-0039,Exclusive Offer Just for You,Returning Customers,2025-05-03,22,5563,1510,197,34
+CMP-0010,Your Order Awaits,Loyal Customers,2025-05-18,9,3972,1292,353,28
+CMP-0019,Your Order Awaits,Returning Customers,2025-06-13,8,3321,927,101,15
+CMP-0001,Special Discount Inside,New Subscribers,2025-04-03,18,1418,254,49,7
+CMP-0039,Special Discount Inside,High Spenders,2025-06-04,8,5097,1158,185,79
+CMP-0011,Exclusive Offer Just for You,Loyal Customers,2025-03-23,19,8929,2739,641,82
+CMP-0025,Back in Stock: Your Favorite Item,Returning Customers,2025-05-10,17,2064,482,91,18
+CMP-0026,Last Chance to Save,Returning Customers,2025-05-20,11,2138,533,87,35
+CMP-0035,Last Chance to Save,Loyal Customers,2025-03-31,10,4170,1016,138,33
+CMP-0045,Back in Stock: Your Favorite Item,Loyal Customers,2025-04-02,11,7720,2157,726,110
+CMP-0008,Special Discount Inside,New Subscribers,2025-04-06,12,1298,309,64,13
+CMP-0041,We Miss You – Come Back!,Returning Customers,2025-03-28,21,6979,1597,263,65
+CMP-0050,Your Order Awaits,High Spenders,2025-04-08,7,2370,618,205,24
+CMP-0007,We Miss You – Come Back!,High Spenders,2025-04-22,7,1237,391,114,15
+CMP-0032,Special Discount Inside,Loyal Customers,2025-05-11,21,7975,2117,485,52
+CMP-0008,Open for a Surprise!,Loyal Customers,2025-05-21,14,3505,1176,371,34
+CMP-0032,Don't Miss Out on This Deal!,Cart Abandoners,2025-04-11,12,4470,1024,137,43
+CMP-0045,We Miss You – Come Back!,Returning Customers,2025-05-03,20,1211,377,83,13
+CMP-0022,We Miss You – Come Back!,Loyal Customers,2025-04-11,10,7009,2002,453,111
+CMP-0044,Don't Miss Out on This Deal!,High Spenders,2025-04-21,18,5571,1548,198,18
+CMP-0015,Your Order Awaits,Loyal Customers,2025-06-04,9,8261,2698,411,57
+CMP-0037,Your Order Awaits,Loyal Customers,2025-04-11,7,2520,645,64,21
+CMP-0039,We Miss You – Come Back!,Loyal Customers,2025-05-28,13,5530,1073,192,49
+CMP-0012,Free Shipping Ends Tonight,Returning Customers,2025-04-05,19,1746,489,176,21
+CMP-0010,Special Discount Inside,High Spenders,2025-05-24,8,7648,1698,414,77
+CMP-0046,Special Discount Inside,New Subscribers,2025-05-21,13,8705,1052,355,83
+CMP-0041,Open for a Surprise!,High Spenders,2025-06-09,16,9488,2232,546,145
+CMP-0030,Free Shipping Ends Tonight,Cart Abandoners,2025-04-10,17,7480,1655,491,121
+CMP-0012,Special Discount Inside,High Spenders,2025-06-12,20,6670,987,338,89
+CMP-0016,Last Chance to Save,Loyal Customers,2025-05-13,6,3423,758,92,56
+CMP-0010,Exclusive Offer Just for You,Cart Abandoners,2025-06-17,13,3723,1302,212,45
+CMP-0031,Last Chance to Save,High Spenders,2025-06-10,11,3378,739,240,37
+CMP-0027,Don't Miss Out on This Deal!,High Spenders,2025-03-22,16,2220,609,218,19
+CMP-0028,You're Invited – RSVP Now!,Cart Abandoners,2025-05-25,9,8375,2166,785,90
+CMP-0049,Free Shipping Ends Tonight,Cart Abandoners,2025-04-01,19,6773,1525,557,74
+CMP-0008,Don't Miss Out on This Deal!,Loyal Customers,2025-03-23,20,6029,1421,160,70
+CMP-0036,Last Chance to Save,Loyal Customers,2025-05-09,17,6828,1980,623,70
+CMP-0016,We Miss You – Come Back!,High Spenders,2025-04-05,7,5160,1392,529,52
+CMP-0032,You're Invited – RSVP Now!,New Subscribers,2025-03-24,20,5815,1232,154,59
+CMP-0023,Don't Miss Out on This Deal!,New Subscribers,2025-05-13,19,8825,1977,579,0
+CMP-0007,Exclusive Offer Just for You,Cart Abandoners,2025-06-06,21,4665,1126,369,66
+CMP-0018,Last Chance to Save,Returning Customers,2025-04-04,7,6991,1121,214,72
+CMP-0016,Special Discount Inside,Loyal Customers,2025-06-15,16,4214,1272,217,53
+CMP-0050,You're Invited – RSVP Now!,Cart Abandoners,2025-05-03,18,5598,1200,438,42
+CMP-0023,Free Shipping Ends Tonight,Returning Customers,2025-05-25,7,3183,674,128,28
+CMP-0004,Don't Miss Out on This Deal!,High Spenders,2025-05-29,21,3862,855,178,7
+CMP-0050,Back in Stock: Your Favorite Item,Returning Customers,2025-06-11,21,3603,824,257,36
+CMP-0005,Your Order Awaits,Cart Abandoners,2025-05-23,22,9927,2880,605,103
+CMP-0021,Back in Stock: Your Favorite Item,New Subscribers,2025-05-15,15,8314,1701,601,42
+CMP-0021,Free Shipping Ends Tonight,High Spenders,2025-05-27,20,5434,1374,546,86
+CMP-0025,Open for a Surprise!,High Spenders,2025-06-15,6,9755,2321,342,121
+CMP-0045,Last Chance to Save,Returning Customers,2025-05-24,12,6837,1986,722,37
+CMP-0020,Your Order Awaits,High Spenders,2025-04-21,8,8236,2007,349,72
+CMP-0029,Last Chance to Save,Loyal Customers,2025-04-16,6,6477,2078,272,15
+CMP-0007,Your Order Awaits,Cart Abandoners,2025-03-21,11,7268,2577,342,57
+CMP-0015,Don't Miss Out on This Deal!,Loyal Customers,2025-05-29,7,6155,1842,511,78
+CMP-0036,Don't Miss Out on This Deal!,High Spenders,2025-04-10,7,8286,2613,290,44
+CMP-0041,Don't Miss Out on This Deal!,Loyal Customers,2025-05-20,21,9518,3399,499,112
+CMP-0021,We Miss You – Come Back!,Returning Customers,2025-04-24,22,2170,407,58,16
+CMP-0042,Free Shipping Ends Tonight,Returning Customers,2025-04-20,22,5556,1157,160,12
+CMP-0012,Open for a Surprise!,New Subscribers,2025-05-02,18,5947,1132,164,49
+CMP-0010,Your Order Awaits,Returning Customers,2025-05-25,17,6441,1705,547,90
+CMP-0035,Back in Stock: Your Favorite Item,Loyal Customers,2025-04-12,9,3237,818,234,35
+CMP-0040,Don't Miss Out on This Deal!,Returning Customers,2025-05-12,11,6840,1952,447,90
+CMP-0035,Open for a Surprise!,Cart Abandoners,2025-04-12,15,9601,2339,646,142
+CMP-0025,Back in Stock: Your Favorite Item,Cart Abandoners,2025-05-09,13,3207,883,135,40
+CMP-0042,Free Shipping Ends Tonight,Returning Customers,2025-04-13,13,6446,1802,199,91
+CMP-0039,Back in Stock: Your Favorite Item,Returning Customers,2025-03-22,20,7641,1346,250,1
+CMP-0015,Your Order Awaits,Loyal Customers,2025-05-03,15,8282,2296,893,60
+CMP-0007,Last Chance to Save,Loyal Customers,2025-05-30,12,5484,1198,370,71
+CMP-0042,Special Discount Inside,Cart Abandoners,2025-06-17,11,1518,304,36,18
+CMP-0017,Don't Miss Out on This Deal!,Loyal Customers,2025-04-22,13,9996,2259,265,51
+CMP-0034,You're Invited – RSVP Now!,Returning Customers,2025-05-20,10,6516,1379,436,91
+CMP-0027,Back in Stock: Your Favorite Item,High Spenders,2025-05-31,19,6673,2343,338,87
+CMP-0030,Open for a Surprise!,New Subscribers,2025-06-11,8,4579,939,201,60
+CMP-0034,You're Invited – RSVP Now!,Cart Abandoners,2025-04-28,8,9454,2357,821,152
+CMP-0025,Don't Miss Out on This Deal!,Returning Customers,2025-05-02,17,7963,1551,324,125
+CMP-0023,Open for a Surprise!,New Subscribers,2025-03-30,8,8687,1529,352,139
+CMP-0026,Open for a Surprise!,High Spenders,2025-05-13,11,3537,1034,270,38
+CMP-0012,Open for a Surprise!,Cart Abandoners,2025-06-06,18,7127,2263,300,57
+CMP-0038,You're Invited – RSVP Now!,Returning Customers,2025-04-15,18,4115,1128,329,38
+CMP-0003,We Miss You – Come Back!,High Spenders,2025-05-26,15,1556,426,49,9
+CMP-0026,Back in Stock: Your Favorite Item,New Subscribers,2025-05-28,14,8210,2018,388,125
+CMP-0040,Back in Stock: Your Favorite Item,Loyal Customers,2025-06-16,14,9408,3008,320,133
+CMP-0036,Back in Stock: Your Favorite Item,High Spenders,2025-05-10,20,3848,920,138,15
+CMP-0027,We Miss You – Come Back!,High Spenders,2025-03-26,21,6651,1532,313,93
+CMP-0023,Free Shipping Ends Tonight,Loyal Customers,2025-05-20,22,2332,677,237,41
+CMP-0034,Special Discount Inside,High Spenders,2025-04-22,7,9621,3072,522,69
+CMP-0037,Last Chance to Save,Returning Customers,2025-05-01,20,7360,2114,761,75
+CMP-0006,Free Shipping Ends Tonight,Cart Abandoners,2025-05-19,18,6279,1800,331,70
+CMP-0010,You're Invited – RSVP Now!,New Subscribers,2025-04-21,13,9805,1914,596,36
+CMP-0032,Back in Stock: Your Favorite Item,Cart Abandoners,2025-06-11,10,5751,1109,442,83
+CMP-0010,You're Invited – RSVP Now!,Cart Abandoners,2025-05-01,8,1952,430,80,7
+CMP-0032,Back in Stock: Your Favorite Item,New Subscribers,2025-05-29,12,1872,494,182,28
+CMP-0010,We Miss You – Come Back!,Cart Abandoners,2025-05-31,16,4271,1131,258,58
+CMP-0022,Last Chance to Save,High Spenders,2025-05-11,8,8813,2817,810,110
+CMP-0023,Free Shipping Ends Tonight,Returning Customers,2025-04-24,12,3916,1124,405,39
+CMP-0041,Don't Miss Out on This Deal!,Returning Customers,2025-04-03,15,4189,1092,209,23
+CMP-0038,Your Order Awaits,Cart Abandoners,2025-06-05,21,5336,1458,283,44
+CMP-0048,Last Chance to Save,New Subscribers,2025-06-17,16,7732,1830,562,93
+CMP-0048,Special Discount Inside,New Subscribers,2025-04-29,18,5394,1230,256,44
+CMP-0048,Back in Stock: Your Favorite Item,High Spenders,2025-04-14,21,7275,1617,465,111
+CMP-0045,Don't Miss Out on This Deal!,New Subscribers,2025-04-03,21,7117,2031,506,115
+CMP-0019,Special Discount Inside,Returning Customers,2025-05-28,20,8757,1990,293,126
+CMP-0040,Free Shipping Ends Tonight,New Subscribers,2025-05-28,15,3206,730,135,37
+CMP-0013,You're Invited – RSVP Now!,Loyal Customers,2025-05-17,11,3662,976,309,24
+CMP-0030,Exclusive Offer Just for You,Loyal Customers,2025-05-23,21,1800,614,79,15
+CMP-0025,We Miss You – Come Back!,High Spenders,2025-04-20,9,5411,1288,446,28
+CMP-0050,Open for a Surprise!,Returning Customers,2025-06-10,22,5974,2022,643,50
+CMP-0017,Free Shipping Ends Tonight,New Subscribers,2025-04-04,19,2676,591,78,8
+CMP-0020,Don't Miss Out on This Deal!,High Spenders,2025-04-28,15,5545,1265,261,92
+CMP-0021,Exclusive Offer Just for You,Loyal Customers,2025-04-15,10,3887,973,284,54
+CMP-0024,Back in Stock: Your Favorite Item,Cart Abandoners,2025-05-10,20,7630,2123,341,24
+CMP-0032,You're Invited – RSVP Now!,New Subscribers,2025-05-12,17,5660,1108,344,75
+CMP-0015,Don't Miss Out on This Deal!,New Subscribers,2025-06-08,18,3715,801,242,22
+CMP-0030,Free Shipping Ends Tonight,New Subscribers,2025-06-03,20,6498,2231,787,52
+CMP-0033,Open for a Surprise!,Cart Abandoners,2025-05-08,6,7520,2213,861,126
+CMP-0023,Exclusive Offer Just for You,High Spenders,2025-05-23,15,4182,1235,388,29
+CMP-0040,Last Chance to Save,Loyal Customers,2025-04-28,19,6798,2047,337,108
+CMP-0044,Special Discount Inside,New Subscribers,2025-05-31,11,6616,930,255,64
+CMP-0003,Don't Miss Out on This Deal!,High Spenders,2025-05-27,8,9482,3082,831,126
+CMP-0028,Last Chance to Save,Loyal Customers,2025-05-24,21,9766,2481,633,159
+CMP-0009,Last Chance to Save,Loyal Customers,2025-05-25,9,5093,1692,422,0
+CMP-0027,Last Chance to Save,Returning Customers,2025-05-16,14,3308,760,151,60
+CMP-0022,Exclusive Offer Just for You,Cart Abandoners,2025-05-16,19,9567,1986,357,112
+CMP-0045,Back in Stock: Your Favorite Item,Returning Customers,2025-04-21,10,4532,1325,287,50
+CMP-0045,Free Shipping Ends Tonight,New Subscribers,2025-04-04,15,5638,1214,282,51
+CMP-0028,We Miss You – Come Back!,New Subscribers,2025-05-18,17,6742,2547,913,68
+CMP-0043,Free Shipping Ends Tonight,High Spenders,2025-04-08,15,1461,226,50,17
+CMP-0018,Special Discount Inside,Cart Abandoners,2025-03-23,20,4509,1464,487,27
+CMP-0006,Last Chance to Save,New Subscribers,2025-05-10,9,9668,2503,963,109
+CMP-0033,Back in Stock: Your Favorite Item,High Spenders,2025-05-26,21,3998,951,149,74
+CMP-0035,Back in Stock: Your Favorite Item,Cart Abandoners,2025-04-23,14,5851,1860,601,46
+CMP-0050,Your Order Awaits,New Subscribers,2025-04-01,22,9086,1664,393,73
+CMP-0002,Exclusive Offer Just for You,Cart Abandoners,2025-04-28,17,3417,1172,445,20
+CMP-0001,Free Shipping Ends Tonight,New Subscribers,2025-06-15,20,6646,1601,526,53
+CMP-0010,Special Discount Inside,Returning Customers,2025-06-02,6,8647,2172,734,51
+CMP-0019,Special Discount Inside,High Spenders,2025-05-20,21,3931,854,183,23
+CMP-0038,Last Chance to Save,High Spenders,2025-04-06,18,4972,1184,272,24
+CMP-0033,You're Invited – RSVP Now!,Cart Abandoners,2025-05-12,19,6607,1928,544,94
+CMP-0037,You're Invited – RSVP Now!,Cart Abandoners,2025-05-28,8,4551,1010,342,10
+CMP-0033,Back in Stock: Your Favorite Item,Cart Abandoners,2025-04-19,21,9290,2883,448,44
+CMP-0025,Don't Miss Out on This Deal!,Loyal Customers,2025-06-03,19,7849,1825,374,107
+CMP-0007,Your Order Awaits,New Subscribers,2025-06-09,21,4936,1107,117,41
+CMP-0032,You're Invited – RSVP Now!,Loyal Customers,2025-06-11,7,5898,1963,424,50
+CMP-0044,We Miss You – Come Back!,High Spenders,2025-06-14,20,2959,884,252,31
+CMP-0040,Last Chance to Save,Returning Customers,2025-04-19,7,7309,1958,255,93
+CMP-0014,You're Invited – RSVP Now!,Loyal Customers,2025-04-13,17,3556,969,348,49
+CMP-0015,We Miss You – Come Back!,Loyal Customers,2025-05-09,19,9482,3668,537,101
+CMP-0046,Exclusive Offer Just for You,High Spenders,2025-03-31,16,3629,955,378,70
+CMP-0023,Exclusive Offer Just for You,Cart Abandoners,2025-05-25,7,4127,1266,292,21
+CMP-0046,Don't Miss Out on This Deal!,New Subscribers,2025-04-05,21,8223,2080,230,137
+CMP-0021,Special Discount Inside,New Subscribers,2025-06-04,20,5459,1104,281,34
+CMP-0040,Free Shipping Ends Tonight,Cart Abandoners,2025-04-12,11,6315,1251,286,64
+CMP-0008,Exclusive Offer Just for You,Returning Customers,2025-04-18,17,1223,193,75,13
+CMP-0003,Open for a Surprise!,Cart Abandoners,2025-05-07,21,8706,3638,1184,131
+CMP-0021,We Miss You – Come Back!,Loyal Customers,2025-05-16,17,6896,2128,623,100
+CMP-0002,Exclusive Offer Just for You,New Subscribers,2025-04-03,6,1782,392,102,14
+CMP-0047,Open for a Surprise!,Returning Customers,2025-05-18,17,3277,624,197,28
+CMP-0010,Back in Stock: Your Favorite Item,Returning Customers,2025-03-24,16,8617,2583,840,93
+CMP-0002,You're Invited – RSVP Now!,Cart Abandoners,2025-04-23,12,6710,1404,360,119
+CMP-0023,We Miss You – Come Back!,High Spenders,2025-05-15,17,2423,727,163,26
+CMP-0021,Back in Stock: Your Favorite Item,High Spenders,2025-04-06,14,8884,2652,798,111
+CMP-0015,You're Invited – RSVP Now!,Returning Customers,2025-05-15,10,9864,2794,762,59
+CMP-0019,Don't Miss Out on This Deal!,Returning Customers,2025-05-07,13,1569,391,94,28
+CMP-0021,We Miss You – Come Back!,New Subscribers,2025-06-04,18,7795,1561,366,96
+CMP-0028,We Miss You – Come Back!,High Spenders,2025-03-23,10,2159,497,83,9
+CMP-0042,Back in Stock: Your Favorite Item,New Subscribers,2025-05-26,15,3710,944,313,18
+CMP-0026,We Miss You – Come Back!,Loyal Customers,2025-04-05,13,6345,2558,559,56
+CMP-0048,Don't Miss Out on This Deal!,Returning Customers,2025-03-30,6,1125,169,45,9
+CMP-0037,Back in Stock: Your Favorite Item,Returning Customers,2025-06-16,13,3805,576,57,32
+CMP-0014,Don't Miss Out on This Deal!,High Spenders,2025-06-01,12,9896,1958,554,130
+CMP-0046,Exclusive Offer Just for You,New Subscribers,2025-05-10,12,6355,1930,277,53
+CMP-0020,Special Discount Inside,Cart Abandoners,2025-03-23,15,6650,2165,372,119
+CMP-0008,Special Discount Inside,Returning Customers,2025-06-09,16,5454,1581,331,45
+CMP-0030,We Miss You – Come Back!,Returning Customers,2025-06-06,15,3697,751,170,16
+CMP-0050,Last Chance to Save,High Spenders,2025-04-10,11,7963,2752,874,17
+CMP-0050,Back in Stock: Your Favorite Item,Cart Abandoners,2025-04-27,13,1524,316,95,19
+CMP-0034,We Miss You – Come Back!,Cart Abandoners,2025-05-24,15,4375,1272,222,40
+CMP-0042,We Miss You – Come Back!,Returning Customers,2025-05-29,11,6037,1448,255,70
+CMP-0037,Don't Miss Out on This Deal!,New Subscribers,2025-04-12,18,4854,1458,334,0
+CMP-0005,Back in Stock: Your Favorite Item,Cart Abandoners,2025-04-20,7,9007,3122,330,77
+CMP-0040,Exclusive Offer Just for You,Loyal Customers,2025-04-05,13,8028,2181,484,54
+CMP-0025,Free Shipping Ends Tonight,High Spenders,2025-04-05,18,1117,256,43,9
+CMP-0029,Your Order Awaits,High Spenders,2025-04-15,20,5205,1228,176,67
+CMP-0005,Back in Stock: Your Favorite Item,Loyal Customers,2025-04-15,17,2857,796,119,48
+CMP-0009,Free Shipping Ends Tonight,High Spenders,2025-05-07,6,8041,2020,572,122
+CMP-0035,Your Order Awaits,Loyal Customers,2025-05-18,15,5951,1912,708,111
+CMP-0003,Your Order Awaits,Cart Abandoners,2025-04-05,9,7659,2924,294,59
+CMP-0035,Open for a Surprise!,New Subscribers,2025-06-01,6,7512,1510,540,98
+CMP-0008,Don't Miss Out on This Deal!,Loyal Customers,2025-05-10,9,3638,1090,255,12
+CMP-0031,We Miss You – Come Back!,High Spenders,2025-04-29,21,8823,2465,564,174
+CMP-0013,We Miss You – Come Back!,Loyal Customers,2025-06-07,21,2631,1153,222,24
+CMP-0010,We Miss You – Come Back!,Returning Customers,2025-04-17,18,5449,1415,537,63
+CMP-0021,Special Discount Inside,New Subscribers,2025-05-18,13,8243,1546,188,109
+CMP-0016,We Miss You – Come Back!,Loyal Customers,2025-04-08,16,1870,536,140,20
+CMP-0032,Exclusive Offer Just for You,New Subscribers,2025-04-23,16,6409,1347,209,95
+CMP-0004,Special Discount Inside,Loyal Customers,2025-04-09,17,9420,3350,775,152
+CMP-0025,Open for a Surprise!,Cart Abandoners,2025-04-13,7,8704,2781,780,0
+CMP-0034,Your Order Awaits,Loyal Customers,2025-04-14,8,4982,1431,432,64
+CMP-0033,Back in Stock: Your Favorite Item,Cart Abandoners,2025-06-09,20,6449,2157,633,10
+CMP-0029,Don't Miss Out on This Deal!,Cart Abandoners,2025-05-09,8,7180,2070,709,32
+CMP-0033,Special Discount Inside,Cart Abandoners,2025-05-12,9,9782,2804,1033,77
+CMP-0040,Exclusive Offer Just for You,Loyal Customers,2025-04-26,22,8124,2371,597,179
+CMP-0043,Special Discount Inside,High Spenders,2025-05-23,7,1519,361,109,17
+CMP-0002,You're Invited – RSVP Now!,Returning Customers,2025-04-17,19,1709,360,58,15
+CMP-0014,Last Chance to Save,Cart Abandoners,2025-04-08,22,6266,1949,763,64
+CMP-0037,We Miss You – Come Back!,Loyal Customers,2025-04-12,7,9257,2507,348,53
+CMP-0023,Open for a Surprise!,Cart Abandoners,2025-05-29,19,9267,2931,1120,114
+CMP-0039,Don't Miss Out on This Deal!,Cart Abandoners,2025-05-29,9,8447,1673,289,0
+CMP-0035,Special Discount Inside,Cart Abandoners,2025-04-04,12,6436,1952,459,80
+CMP-0037,Open for a Surprise!,High Spenders,2025-04-01,10,5086,1238,124,61
+CMP-0012,Open for a Surprise!,New Subscribers,2025-05-10,17,8946,2283,548,107
+CMP-0043,Exclusive Offer Just for You,High Spenders,2025-06-18,20,4278,556,71,57
+CMP-0036,Free Shipping Ends Tonight,Returning Customers,2025-05-24,12,2566,574,135,2
+CMP-0006,Back in Stock: Your Favorite Item,Returning Customers,2025-04-24,16,7926,1923,455,59
+CMP-0014,Your Order Awaits,Loyal Customers,2025-05-20,21,3012,826,163,0
+CMP-0044,Your Order Awaits,High Spenders,2025-04-21,8,9736,2407,768,94
+CMP-0038,Open for a Surprise!,Returning Customers,2025-03-30,13,2008,474,90,19
+CMP-0025,Your Order Awaits,Cart Abandoners,2025-05-11,12,3893,1498,246,0
+CMP-0025,You're Invited – RSVP Now!,New Subscribers,2025-05-15,12,7428,1549,490,89
+CMP-0003,Special Discount Inside,New Subscribers,2025-05-03,17,4798,971,199,33
+CMP-0045,Free Shipping Ends Tonight,High Spenders,2025-04-08,18,6856,1672,431,28
+CMP-0013,Free Shipping Ends Tonight,Cart Abandoners,2025-05-12,10,3314,662,136,25
+CMP-0038,Don't Miss Out on This Deal!,New Subscribers,2025-03-25,21,1008,215,79,10
+CMP-0015,We Miss You – Come Back!,New Subscribers,2025-05-02,20,2654,707,189,27
+CMP-0017,You're Invited – RSVP Now!,Cart Abandoners,2025-04-06,10,8279,2600,764,94
+CMP-0025,Your Order Awaits,Returning Customers,2025-03-26,7,3475,598,168,45
+CMP-0015,Don't Miss Out on This Deal!,Cart Abandoners,2025-03-26,12,9986,2566,571,96
+CMP-0031,We Miss You – Come Back!,New Subscribers,2025-05-07,10,1754,359,38,9
+CMP-0015,You're Invited – RSVP Now!,Returning Customers,2025-03-24,14,1468,466,121,7
+CMP-0019,Don't Miss Out on This Deal!,New Subscribers,2025-05-02,15,5713,1053,120,64
+CMP-0045,Don't Miss Out on This Deal!,Loyal Customers,2025-04-12,13,1255,365,100,13
+CMP-0039,You're Invited – RSVP Now!,Loyal Customers,2025-04-04,20,1450,404,143,27
+CMP-0002,Open for a Surprise!,New Subscribers,2025-05-08,20,7001,1481,298,131
+CMP-0037,We Miss You – Come Back!,Loyal Customers,2025-05-27,16,6659,1984,550,36
+CMP-0015,Don't Miss Out on This Deal!,Cart Abandoners,2025-05-29,15,1028,303,102,1
+CMP-0047,Open for a Surprise!,High Spenders,2025-03-30,19,9804,2408,681,116
+CMP-0047,Free Shipping Ends Tonight,New Subscribers,2025-04-07,16,5480,1113,296,85
+CMP-0023,Free Shipping Ends Tonight,Loyal Customers,2025-04-05,19,8083,2362,774,79
+CMP-0034,Don't Miss Out on This Deal!,New Subscribers,2025-04-10,7,1119,228,73,12
+CMP-0040,Special Discount Inside,High Spenders,2025-03-29,13,4400,1105,302,38
+CMP-0024,You're Invited – RSVP Now!,Loyal Customers,2025-03-23,18,5925,2128,414,96
+CMP-0022,Last Chance to Save,Returning Customers,2025-04-10,10,8132,1220,450,103
+CMP-0032,Back in Stock: Your Favorite Item,Loyal Customers,2025-05-08,16,7020,2357,269,66
+CMP-0044,We Miss You – Come Back!,New Subscribers,2025-06-05,16,6354,2068,669,93
+CMP-0036,Special Discount Inside,Loyal Customers,2025-05-07,20,3725,1091,393,59
+CMP-0015,Don't Miss Out on This Deal!,High Spenders,2025-06-14,19,3410,840,304,54
+CMP-0031,Last Chance to Save,Loyal Customers,2025-04-10,16,8953,2317,243,154
+CMP-0040,Open for a Surprise!,Returning Customers,2025-05-07,14,6766,1272,457,68
+CMP-0025,Don't Miss Out on This Deal!,Returning Customers,2025-06-13,18,8379,1734,469,80
+CMP-0034,Exclusive Offer Just for You,Loyal Customers,2025-04-21,7,1138,214,37,19
+CMP-0012,Back in Stock: Your Favorite Item,Returning Customers,2025-04-16,14,7715,1797,546,29
+CMP-0050,We Miss You – Come Back!,Returning Customers,2025-03-29,15,9386,2077,536,79
+CMP-0046,We Miss You – Come Back!,High Spenders,2025-05-29,17,4702,1469,424,82
+CMP-0049,Your Order Awaits,New Subscribers,2025-06-01,7,8843,2432,593,165
+CMP-0002,Free Shipping Ends Tonight,New Subscribers,2025-05-09,16,4431,1117,254,68
+CMP-0009,Special Discount Inside,Cart Abandoners,2025-05-15,15,4419,1246,493,21
+CMP-0045,Special Discount Inside,Returning Customers,2025-05-24,10,8058,1653,576,72
+CMP-0021,Your Order Awaits,Cart Abandoners,2025-05-15,15,2253,723,282,34
+CMP-0005,We Miss You – Come Back!,High Spenders,2025-06-05,13,4582,1445,321,32
+CMP-0004,We Miss You – Come Back!,Returning Customers,2025-05-10,16,8177,1816,471,91
+CMP-0017,Exclusive Offer Just for You,High Spenders,2025-04-24,9,9252,2459,813,147
+CMP-0004,Your Order Awaits,Loyal Customers,2025-05-09,16,9211,2604,809,92
+CMP-0010,You're Invited – RSVP Now!,Loyal Customers,2025-05-07,8,9916,3499,705,94
+CMP-0050,Free Shipping Ends Tonight,Returning Customers,2025-04-30,6,3472,696,230,39
+CMP-0012,Open for a Surprise!,Returning Customers,2025-04-21,18,9646,1459,275,145
+CMP-0048,Your Order Awaits,New Subscribers,2025-03-31,21,7228,1001,337,58
+CMP-0024,We Miss You – Come Back!,Cart Abandoners,2025-05-18,8,3319,1230,314,36
+CMP-0035,Open for a Surprise!,High Spenders,2025-04-28,20,8513,2130,736,59
+CMP-0035,Back in Stock: Your Favorite Item,Returning Customers,2025-06-18,11,2021,384,121,15
+CMP-0001,Last Chance to Save,Returning Customers,2025-05-24,21,3570,817,126,57
+CMP-0012,Exclusive Offer Just for You,New Subscribers,2025-06-05,19,6538,1508,188,56
+CMP-0011,Your Order Awaits,Returning Customers,2025-03-21,16,2395,776,273,9
+CMP-0033,Special Discount Inside,Returning Customers,2025-03-22,21,1603,519,99,17
+CMP-0005,Back in Stock: Your Favorite Item,High Spenders,2025-05-04,10,4358,1285,209,45
+CMP-0022,Open for a Surprise!,Cart Abandoners,2025-05-20,11,2320,711,269,13
+CMP-0007,Free Shipping Ends Tonight,Cart Abandoners,2025-03-31,15,6326,1743,238,73
+CMP-0013,Your Order Awaits,New Subscribers,2025-03-24,14,1173,278,88,23
+CMP-0029,Your Order Awaits,Returning Customers,2025-04-03,20,4372,926,208,40
+CMP-0006,Special Discount Inside,Loyal Customers,2025-06-09,8,1616,536,173,23
+CMP-0042,Your Order Awaits,New Subscribers,2025-04-29,15,5176,1383,470,67
+CMP-0025,Exclusive Offer Just for You,Cart Abandoners,2025-05-07,16,8803,2071,416,67
+CMP-0025,Open for a Surprise!,Loyal Customers,2025-04-18,13,1884,601,184,23
+CMP-0029,Special Discount Inside,High Spenders,2025-06-17,22,7068,2074,407,52
+CMP-0027,Your Order Awaits,Cart Abandoners,2025-03-21,8,6474,2071,792,79
+CMP-0025,You're Invited – RSVP Now!,Returning Customers,2025-05-09,21,5761,1547,335,79
+CMP-0015,Your Order Awaits,New Subscribers,2025-05-10,18,7582,1541,536,68
+CMP-0009,Special Discount Inside,High Spenders,2025-05-12,9,4468,1352,402,48
+CMP-0030,You're Invited – RSVP Now!,Loyal Customers,2025-04-10,11,1884,730,140,27
+CMP-0034,Back in Stock: Your Favorite Item,New Subscribers,2025-04-02,14,3276,1014,227,7
+CMP-0016,Back in Stock: Your Favorite Item,High Spenders,2025-03-21,18,2114,607,184,27
+CMP-0042,Last Chance to Save,Loyal Customers,2025-06-13,16,9858,3647,841,166
+CMP-0028,Free Shipping Ends Tonight,Cart Abandoners,2025-05-27,6,6770,2002,694,71
+CMP-0008,Your Order Awaits,Loyal Customers,2025-04-12,13,5095,1617,396,14
+CMP-0003,Free Shipping Ends Tonight,Cart Abandoners,2025-04-10,21,7990,2104,233,150
+CMP-0015,Open for a Surprise!,New Subscribers,2025-06-15,18,9240,1870,458,174
+CMP-0022,Back in Stock: Your Favorite Item,Cart Abandoners,2025-05-15,9,6311,1401,223,56
+CMP-0036,Back in Stock: Your Favorite Item,Loyal Customers,2025-04-02,13,7796,2330,242,74
+CMP-0049,You're Invited – RSVP Now!,New Subscribers,2025-04-09,11,4328,1526,293,29
+CMP-0012,We Miss You – Come Back!,New Subscribers,2025-04-13,17,4995,1363,240,97
+CMP-0046,Last Chance to Save,New Subscribers,2025-04-30,12,4419,1007,229,31
+CMP-0012,Your Order Awaits,High Spenders,2025-05-19,14,4917,1166,140,0
+CMP-0033,We Miss You – Come Back!,New Subscribers,2025-04-07,22,9236,1422,243,165
+CMP-0019,You're Invited – RSVP Now!,High Spenders,2025-05-27,20,5886,1148,256,50
+CMP-0035,Open for a Surprise!,Returning Customers,2025-05-01,15,8550,1733,664,147
+CMP-0032,Last Chance to Save,Returning Customers,2025-03-21,21,8990,1232,430,25
+CMP-0044,Open for a Surprise!,Loyal Customers,2025-06-14,16,8665,2576,951,121
+CMP-0044,Exclusive Offer Just for You,High Spenders,2025-03-31,7,7437,1537,546,55
+CMP-0022,Free Shipping Ends Tonight,New Subscribers,2025-05-20,9,1986,450,171,19
+CMP-0007,Your Order Awaits,Loyal Customers,2025-05-26,15,3630,1188,377,24
+CMP-0010,We Miss You – Come Back!,New Subscribers,2025-04-08,10,8826,1303,463,6
+CMP-0002,Free Shipping Ends Tonight,Cart Abandoners,2025-05-30,15,6693,1434,485,97
+CMP-0048,Last Chance to Save,High Spenders,2025-06-17,9,9924,2091,571,58
+CMP-0004,We Miss You – Come Back!,High Spenders,2025-05-03,6,3576,832,135,26
+CMP-0049,Special Discount Inside,Cart Abandoners,2025-05-07,17,3584,1073,390,47
+CMP-0025,Back in Stock: Your Favorite Item,New Subscribers,2025-04-11,16,2395,363,45,15
+CMP-0019,You're Invited – RSVP Now!,Cart Abandoners,2025-04-29,12,3137,837,310,36
+CMP-0031,Free Shipping Ends Tonight,New Subscribers,2025-06-15,11,8573,1117,167,78
+CMP-0018,Open for a Surprise!,Cart Abandoners,2025-05-20,14,6013,1377,391,34
+CMP-0014,Back in Stock: Your Favorite Item,Cart Abandoners,2025-05-15,8,5053,1288,195,16
+CMP-0018,Free Shipping Ends Tonight,Cart Abandoners,2025-05-03,21,5324,1792,322,50
+CMP-0026,We Miss You – Come Back!,High Spenders,2025-06-17,16,6438,1993,284,82
+CMP-0014,We Miss You – Come Back!,Returning Customers,2025-04-17,16,5844,1738,663,108
+CMP-0007,Open for a Surprise!,High Spenders,2025-06-01,18,4824,1316,235,25
+CMP-0042,Free Shipping Ends Tonight,Cart Abandoners,2025-05-14,18,6979,1869,555,7
+CMP-0030,Open for a Surprise!,Cart Abandoners,2025-05-23,6,3653,1240,483,36
+CMP-0006,Special Discount Inside,High Spenders,2025-04-28,11,8605,2376,487,66
+CMP-0025,Back in Stock: Your Favorite Item,Cart Abandoners,2025-03-27,22,5125,1410,480,25
+CMP-0019,We Miss You – Come Back!,High Spenders,2025-05-15,6,8031,1845,235,78
+CMP-0048,You're Invited – RSVP Now!,Loyal Customers,2025-05-06,11,7599,1997,441,0
+CMP-0022,Back in Stock: Your Favorite Item,Loyal Customers,2025-03-25,22,5393,1335,428,14
+CMP-0033,Exclusive Offer Just for You,Cart Abandoners,2025-05-11,16,6348,1708,673,50
+CMP-0045,Exclusive Offer Just for You,Cart Abandoners,2025-03-28,17,6185,1517,562,44
+CMP-0001,Last Chance to Save,Loyal Customers,2025-03-31,22,9764,3281,429,95
+CMP-0032,Open for a Surprise!,Cart Abandoners,2025-06-16,12,9200,3175,1117,78
+CMP-0043,Don't Miss Out on This Deal!,Returning Customers,2025-06-15,20,5455,1006,295,17
+CMP-0008,We Miss You – Come Back!,High Spenders,2025-04-21,9,6225,1511,569,45
+CMP-0006,We Miss You – Come Back!,Loyal Customers,2025-04-09,12,4629,1554,179,16
+CMP-0010,Back in Stock: Your Favorite Item,Cart Abandoners,2025-04-13,15,1692,479,85,12
+CMP-0005,You're Invited – RSVP Now!,Loyal Customers,2025-03-29,13,2449,850,266,11
+CMP-0017,Don't Miss Out on This Deal!,High Spenders,2025-05-03,8,6478,1404,238,92
+CMP-0048,Your Order Awaits,Returning Customers,2025-04-11,12,4353,1192,456,30
+CMP-0037,Open for a Surprise!,High Spenders,2025-04-14,10,9359,3032,691,67
+CMP-0021,Open for a Surprise!,Returning Customers,2025-04-22,10,4352,819,178,32
+CMP-0036,We Miss You – Come Back!,Loyal Customers,2025-04-01,19,1497,567,172,0
+CMP-0001,Back in Stock: Your Favorite Item,Loyal Customers,2025-05-16,14,9671,3168,1047,120
+CMP-0019,Don't Miss Out on This Deal!,Loyal Customers,2025-04-17,13,9625,3095,1006,96
+CMP-0038,Open for a Surprise!,High Spenders,2025-06-01,6,6314,1475,205,33
+CMP-0014,Don't Miss Out on This Deal!,High Spenders,2025-04-14,13,3472,807,297,45
+CMP-0034,Your Order Awaits,High Spenders,2025-05-30,15,3672,1005,255,48
+CMP-0050,Last Chance to Save,High Spenders,2025-03-23,6,9741,2950,999,135
+CMP-0031,Don't Miss Out on This Deal!,Returning Customers,2025-05-09,16,4513,1098,262,45
+CMP-0046,Special Discount Inside,Returning Customers,2025-03-21,11,1316,210,72,18
+CMP-0046,You're Invited – RSVP Now!,Cart Abandoners,2025-04-10,13,4092,1455,314,14
+CMP-0041,Special Discount Inside,New Subscribers,2025-04-26,12,1767,418,89,11
+CMP-0030,Back in Stock: Your Favorite Item,Returning Customers,2025-03-27,17,5630,1176,373,47
+CMP-0027,We Miss You – Come Back!,Loyal Customers,2025-06-14,10,4026,1046,333,44
+CMP-0033,Open for a Surprise!,New Subscribers,2025-05-29,10,7307,1281,309,71
+CMP-0045,Special Discount Inside,Cart Abandoners,2025-05-12,6,4320,1023,127,93
+CMP-0015,You're Invited – RSVP Now!,Cart Abandoners,2025-04-14,16,4573,1194,226,53
+CMP-0031,Don't Miss Out on This Deal!,High Spenders,2025-05-10,20,3066,644,134,59
+CMP-0017,Last Chance to Save,Loyal Customers,2025-05-21,12,2046,521,89,13
+CMP-0026,Exclusive Offer Just for You,Cart Abandoners,2025-05-11,10,1103,329,44,5
+CMP-0035,We Miss You – Come Back!,Returning Customers,2025-05-06,19,6049,1364,154,40
+CMP-0007,Special Discount Inside,Returning Customers,2025-05-08,20,4824,1072,408,72
+CMP-0004,We Miss You – Come Back!,New Subscribers,2025-04-21,8,7582,2065,335,25
+CMP-0010,Last Chance to Save,High Spenders,2025-04-08,10,1923,536,188,26
+CMP-0023,Free Shipping Ends Tonight,Cart Abandoners,2025-05-01,15,6350,1889,655,68
+CMP-0040,Exclusive Offer Just for You,Returning Customers,2025-05-22,16,1784,334,126,8
+CMP-0014,Back in Stock: Your Favorite Item,Returning Customers,2025-04-29,14,2866,662,104,27
+CMP-0047,Last Chance to Save,Loyal Customers,2025-04-27,6,6357,2182,679,24
+CMP-0035,We Miss You – Come Back!,New Subscribers,2025-04-27,22,3336,522,120,20
+CMP-0018,We Miss You – Come Back!,Cart Abandoners,2025-05-16,8,5042,1290,342,36
+CMP-0016,Don't Miss Out on This Deal!,Loyal Customers,2025-04-17,10,8382,2571,822,51
+CMP-0038,Open for a Surprise!,Cart Abandoners,2025-06-03,9,3162,730,77,40
+CMP-0032,We Miss You – Come Back!,Returning Customers,2025-05-26,9,3575,828,121,50
+CMP-0015,Back in Stock: Your Favorite Item,New Subscribers,2025-05-02,18,6865,1256,310,79
+CMP-0006,You're Invited – RSVP Now!,High Spenders,2025-05-25,17,8655,2472,486,106
+CMP-0021,You're Invited – RSVP Now!,High Spenders,2025-06-12,7,2126,305,40,25
+CMP-0034,We Miss You – Come Back!,High Spenders,2025-06-06,14,1297,449,65,14
+CMP-0040,Your Order Awaits,High Spenders,2025-03-22,14,4218,1246,269,47
+CMP-0012,Back in Stock: Your Favorite Item,New Subscribers,2025-03-29,22,4669,1237,456,67
+CMP-0047,Special Discount Inside,Loyal Customers,2025-03-25,14,9213,2612,866,79
+CMP-0029,Last Chance to Save,Loyal Customers,2025-04-15,22,4606,1819,215,39
+CMP-0025,You're Invited – RSVP Now!,New Subscribers,2025-04-08,15,9985,2662,456,122
+CMP-0020,You're Invited – RSVP Now!,Cart Abandoners,2025-04-20,6,1449,349,109,14
+CMP-0013,Special Discount Inside,High Spenders,2025-05-10,19,4098,912,230,6
+CMP-0033,Your Order Awaits,Returning Customers,2025-06-09,17,8631,1632,409,120
+CMP-0030,Exclusive Offer Just for You,High Spenders,2025-05-16,19,5815,1865,315,75
+CMP-0043,Exclusive Offer Just for You,Returning Customers,2025-04-12,12,6667,1333,269,76
+CMP-0011,Special Discount Inside,Returning Customers,2025-04-30,10,7729,1692,286,95
+CMP-0035,Open for a Surprise!,Returning Customers,2025-06-12,16,8860,1169,382,46
+CMP-0046,Don't Miss Out on This Deal!,Cart Abandoners,2025-06-15,13,9028,2254,835,210
+CMP-0050,We Miss You – Come Back!,High Spenders,2025-06-15,18,7903,1919,370,38
+CMP-0017,You're Invited – RSVP Now!,Returning Customers,2025-03-28,16,9261,1943,728,26
+CMP-0025,Free Shipping Ends Tonight,Returning Customers,2025-06-01,8,2210,438,68,32
+CMP-0044,Back in Stock: Your Favorite Item,Loyal Customers,2025-06-12,20,3150,1254,285,37
+CMP-0033,Your Order Awaits,Cart Abandoners,2025-04-28,6,4229,1238,144,49
+CMP-0037,Your Order Awaits,New Subscribers,2025-05-27,18,3414,656,207,7
+CMP-0035,Don't Miss Out on This Deal!,Loyal Customers,2025-05-16,7,6614,1666,663,39
+CMP-0021,Free Shipping Ends Tonight,Cart Abandoners,2025-05-12,9,1911,554,74,8
+CMP-0034,Special Discount Inside,New Subscribers,2025-05-09,10,9572,2286,620,120
+CMP-0023,Exclusive Offer Just for You,Cart Abandoners,2025-04-29,11,3278,979,324,15
+CMP-0006,Back in Stock: Your Favorite Item,Returning Customers,2025-04-18,20,2501,528,204,26
+CMP-0002,Don't Miss Out on This Deal!,Loyal Customers,2025-05-09,13,3199,1033,155,4
+CMP-0006,Last Chance to Save,Cart Abandoners,2025-04-01,7,3749,884,298,57
+CMP-0045,Exclusive Offer Just for You,Cart Abandoners,2025-05-10,7,8862,2616,858,116
+CMP-0028,Don't Miss Out on This Deal!,Returning Customers,2025-06-08,20,9584,2880,951,114
+CMP-0045,Your Order Awaits,Returning Customers,2025-03-26,19,6254,1225,310,44
+CMP-0025,Back in Stock: Your Favorite Item,Loyal Customers,2025-04-25,13,9045,1976,588,159
+CMP-0033,Special Discount Inside,Cart Abandoners,2025-05-05,20,4759,1462,383,71
+CMP-0006,You're Invited – RSVP Now!,Returning Customers,2025-04-18,14,1434,468,181,17
+CMP-0010,We Miss You – Come Back!,New Subscribers,2025-04-21,12,2714,436,159,33
+CMP-0046,Exclusive Offer Just for You,Loyal Customers,2025-04-02,15,3617,797,176,65
+CMP-0016,Exclusive Offer Just for You,High Spenders,2025-06-03,17,8829,1400,435,95
+CMP-0002,Free Shipping Ends Tonight,High Spenders,2025-04-24,14,5011,1326,357,0
+CMP-0044,Exclusive Offer Just for You,Cart Abandoners,2025-04-26,7,7265,2151,374,88
+CMP-0010,You're Invited – RSVP Now!,High Spenders,2025-06-10,19,6688,1699,345,49
+CMP-0021,Open for a Surprise!,Loyal Customers,2025-03-24,13,7348,1974,280,132
+CMP-0022,Open for a Surprise!,Returning Customers,2025-04-28,8,5391,638,250,35
+CMP-0015,We Miss You – Come Back!,New Subscribers,2025-06-10,17,4224,1148,393,5
+CMP-0029,Exclusive Offer Just for You,Returning Customers,2025-05-23,7,8537,1204,133,78
+CMP-0049,Back in Stock: Your Favorite Item,Loyal Customers,2025-05-31,6,4986,1672,418,69
+CMP-0005,Back in Stock: Your Favorite Item,Cart Abandoners,2025-04-10,8,1909,447,59,24
+CMP-0018,Open for a Surprise!,Returning Customers,2025-06-03,12,2417,651,210,23
+CMP-0030,Exclusive Offer Just for You,High Spenders,2025-03-27,14,6053,1485,197,81
+CMP-0001,Special Discount Inside,High Spenders,2025-06-13,10,6658,2047,437,59
+CMP-0014,Free Shipping Ends Tonight,Loyal Customers,2025-04-28,14,9704,2420,940,133
+CMP-0017,Open for a Surprise!,Cart Abandoners,2025-06-14,18,3342,913,242,41
+CMP-0022,Your Order Awaits,Loyal Customers,2025-05-03,18,6307,1486,150,45
+CMP-0008,We Miss You – Come Back!,Returning Customers,2025-04-03,6,9073,1985,313,68
+CMP-0016,Don't Miss Out on This Deal!,New Subscribers,2025-04-18,21,9223,1195,291,175
+CMP-0004,Don't Miss Out on This Deal!,Cart Abandoners,2025-06-06,11,4167,1306,417,50
+CMP-0001,We Miss You – Come Back!,Loyal Customers,2025-05-24,18,3387,1200,171,35
+CMP-0006,Special Discount Inside,Returning Customers,2025-05-28,19,4136,847,170,102
+CMP-0022,Special Discount Inside,Loyal Customers,2025-04-24,9,7878,1933,323,80
+CMP-0011,Special Discount Inside,Cart Abandoners,2025-04-15,18,7059,1326,410,38
+CMP-0018,Free Shipping Ends Tonight,Returning Customers,2025-05-12,22,2827,619,178,25
+CMP-0009,Don't Miss Out on This Deal!,New Subscribers,2025-04-06,7,5033,1486,204,54
+CMP-0042,Back in Stock: Your Favorite Item,Cart Abandoners,2025-05-03,18,1853,344,104,5
+CMP-0001,Don't Miss Out on This Deal!,Cart Abandoners,2025-04-22,13,3130,738,144,5
+CMP-0043,Don't Miss Out on This Deal!,Returning Customers,2025-06-04,15,4944,1505,227,88
+CMP-0006,Exclusive Offer Just for You,New Subscribers,2025-03-21,7,8679,2390,398,4
+CMP-0040,Open for a Surprise!,Cart Abandoners,2025-04-02,11,2749,588,211,27
+CMP-0016,Back in Stock: Your Favorite Item,Cart Abandoners,2025-04-28,11,5386,1350,191,30
+CMP-0009,Last Chance to Save,Loyal Customers,2025-05-16,11,4035,1075,396,68
+CMP-0046,You're Invited – RSVP Now!,Cart Abandoners,2025-04-09,12,2473,527,64,22
+CMP-0043,Don't Miss Out on This Deal!,High Spenders,2025-05-05,18,6328,1564,522,25
+CMP-0022,Back in Stock: Your Favorite Item,Loyal Customers,2025-04-27,18,8737,2017,220,60
+CMP-0023,Your Order Awaits,Loyal Customers,2025-04-01,12,9779,2831,602,182
+CMP-0003,Last Chance to Save,High Spenders,2025-04-02,12,6468,2104,704,65
+CMP-0021,Last Chance to Save,Loyal Customers,2025-05-31,17,5290,1589,321,43
+CMP-0020,We Miss You – Come Back!,Returning Customers,2025-04-07,12,2519,646,112,27
+CMP-0018,Don't Miss Out on This Deal!,High Spenders,2025-06-15,8,2227,809,215,22
+CMP-0007,We Miss You – Come Back!,Cart Abandoners,2025-05-16,11,3158,686,72,43
+CMP-0034,Don't Miss Out on This Deal!,Cart Abandoners,2025-05-03,7,1144,295,114,8
+CMP-0020,You're Invited – RSVP Now!,New Subscribers,2025-05-16,21,6080,1394,295,89
+CMP-0007,Your Order Awaits,High Spenders,2025-05-05,20,9174,1731,666,135
+CMP-0019,We Miss You – Come Back!,Loyal Customers,2025-04-16,19,1425,472,135,5
+CMP-0002,We Miss You – Come Back!,High Spenders,2025-04-19,16,5757,1632,291,57
+CMP-0019,Last Chance to Save,Returning Customers,2025-05-23,21,8976,2319,665,83
+CMP-0018,Special Discount Inside,Returning Customers,2025-05-23,15,1251,256,30,13
+CMP-0038,Exclusive Offer Just for You,New Subscribers,2025-05-15,14,5029,1283,169,57
+CMP-0012,We Miss You – Come Back!,High Spenders,2025-04-02,9,8901,2652,549,95
+CMP-0046,Don't Miss Out on This Deal!,Returning Customers,2025-06-04,9,2022,549,56,24
+CMP-0035,Back in Stock: Your Favorite Item,Returning Customers,2025-04-21,6,7056,1580,330,42
+CMP-0045,Last Chance to Save,Returning Customers,2025-04-02,15,4588,808,145,37
+CMP-0040,We Miss You – Come Back!,High Spenders,2025-04-23,7,6503,1961,514,86
+CMP-0012,Back in Stock: Your Favorite Item,Cart Abandoners,2025-03-23,22,2096,605,207,32
+CMP-0005,Exclusive Offer Just for You,Returning Customers,2025-06-06,6,2609,526,98,40
+CMP-0015,Special Discount Inside,Returning Customers,2025-05-31,9,5776,915,281,53
+CMP-0018,Special Discount Inside,Loyal Customers,2025-06-02,17,8149,3033,561,68
+CMP-0042,Back in Stock: Your Favorite Item,New Subscribers,2025-05-11,8,4329,933,310,21
+CMP-0034,Your Order Awaits,New Subscribers,2025-04-27,18,7909,1750,394,49
+CMP-0011,Your Order Awaits,New Subscribers,2025-06-04,10,2341,353,137,17
+CMP-0005,Open for a Surprise!,Loyal Customers,2025-06-17,18,7407,2559,435,73
+CMP-0026,Exclusive Offer Just for You,High Spenders,2025-05-18,12,8494,2297,717,34
+CMP-0006,Open for a Surprise!,Loyal Customers,2025-04-14,16,8421,3206,974,134
+CMP-0013,Your Order Awaits,Loyal Customers,2025-04-16,10,1925,634,219,13
+CMP-0020,We Miss You – Come Back!,New Subscribers,2025-06-17,18,3743,711,196,57
+CMP-0047,Free Shipping Ends Tonight,Loyal Customers,2025-04-20,6,6145,1898,449,53
+CMP-0014,You're Invited – RSVP Now!,New Subscribers,2025-05-26,14,8363,1380,360,95
+CMP-0021,Special Discount Inside,Cart Abandoners,2025-03-25,9,2125,719,176,37
+CMP-0023,You're Invited – RSVP Now!,Loyal Customers,2025-06-16,17,3260,1024,400,22
+CMP-0039,Back in Stock: Your Favorite Item,Cart Abandoners,2025-05-11,19,5985,1620,605,54
+CMP-0036,Free Shipping Ends Tonight,High Spenders,2025-06-13,19,4476,1285,457,10
+CMP-0005,You're Invited – RSVP Now!,Cart Abandoners,2025-04-08,21,5742,1345,290,89
+CMP-0002,Exclusive Offer Just for You,Cart Abandoners,2025-03-26,9,8002,2192,681,132
+CMP-0017,Special Discount Inside,Cart Abandoners,2025-05-29,18,6814,2180,815,71
+CMP-0034,Back in Stock: Your Favorite Item,Cart Abandoners,2025-05-03,20,5922,1323,210,50
+CMP-0007,Special Discount Inside,Loyal Customers,2025-06-18,15,8621,2335,678,81
+CMP-0002,Special Discount Inside,New Subscribers,2025-06-02,13,8970,1389,232,99
+CMP-0021,You're Invited – RSVP Now!,Cart Abandoners,2025-04-30,16,1169,336,85,20
+CMP-0017,Last Chance to Save,Cart Abandoners,2025-06-08,17,3986,1461,163,44
+CMP-0013,Last Chance to Save,High Spenders,2025-05-18,17,6998,1941,748,0
+CMP-0012,Don't Miss Out on This Deal!,Loyal Customers,2025-06-15,10,7109,2156,732,22
+CMP-0025,Last Chance to Save,High Spenders,2025-05-09,14,7490,1810,624,53
+CMP-0047,Your Order Awaits,New Subscribers,2025-06-05,10,4168,1228,204,33
+CMP-0019,Back in Stock: Your Favorite Item,Loyal Customers,2025-05-13,21,8063,2693,644,202
+CMP-0038,Back in Stock: Your Favorite Item,High Spenders,2025-06-17,12,5115,1236,350,36
+CMP-0021,We Miss You – Come Back!,Cart Abandoners,2025-04-14,22,1284,330,34,5
+CMP-0050,Back in Stock: Your Favorite Item,Loyal Customers,2025-05-02,19,3616,1104,281,36
+CMP-0028,Back in Stock: Your Favorite Item,High Spenders,2025-06-09,16,6189,2312,362,53
+CMP-0006,We Miss You – Come Back!,Loyal Customers,2025-04-26,18,6244,1767,394,50
+CMP-0040,You're Invited – RSVP Now!,Returning Customers,2025-05-19,19,8171,2040,362,135
+CMP-0036,You're Invited – RSVP Now!,New Subscribers,2025-05-20,17,3468,733,190,42
+CMP-0012,Don't Miss Out on This Deal!,Cart Abandoners,2025-04-28,18,2885,658,75,34
+CMP-0007,We Miss You – Come Back!,High Spenders,2025-05-02,7,5646,1573,536,31
+CMP-0012,Free Shipping Ends Tonight,High Spenders,2025-05-25,16,8685,2156,621,125
+CMP-0007,You're Invited – RSVP Now!,Cart Abandoners,2025-05-01,13,8173,2018,490,0
+CMP-0044,Special Discount Inside,Returning Customers,2025-04-14,6,3600,905,343,35
+CMP-0015,Don't Miss Out on This Deal!,High Spenders,2025-05-11,16,1514,428,158,18
+CMP-0030,Exclusive Offer Just for You,New Subscribers,2025-05-31,19,5906,1625,483,63
+CMP-0018,We Miss You – Come Back!,High Spenders,2025-06-18,7,9563,2577,1018,121
+CMP-0011,Open for a Surprise!,New Subscribers,2025-05-14,8,3481,761,274,44
+CMP-0034,Open for a Surprise!,New Subscribers,2025-04-19,16,1553,328,35,8
+CMP-0049,Back in Stock: Your Favorite Item,Loyal Customers,2025-04-01,15,3335,743,183,13
+CMP-0019,You're Invited – RSVP Now!,Cart Abandoners,2025-04-23,11,7087,2128,270,38
+CMP-0011,Exclusive Offer Just for You,High Spenders,2025-05-31,13,8372,2002,522,151
+CMP-0015,Free Shipping Ends Tonight,New Subscribers,2025-03-27,18,3799,685,250,63
+CMP-0015,You're Invited – RSVP Now!,High Spenders,2025-05-09,20,1499,314,48,22
+CMP-0043,Don't Miss Out on This Deal!,High Spenders,2025-04-16,18,9908,3345,755,64
+CMP-0037,Back in Stock: Your Favorite Item,New Subscribers,2025-05-27,15,2221,555,123,1
+CMP-0012,Open for a Surprise!,Loyal Customers,2025-05-16,9,1799,543,214,23
+CMP-0039,Special Discount Inside,Loyal Customers,2025-05-03,20,7774,1492,395,112
+CMP-0004,Special Discount Inside,Returning Customers,2025-04-12,13,2444,682,245,29
+CMP-0038,Free Shipping Ends Tonight,New Subscribers,2025-04-22,15,4612,1094,247,16
+CMP-0004,Back in Stock: Your Favorite Item,Cart Abandoners,2025-06-05,11,5690,1372,320,76
+CMP-0035,Back in Stock: Your Favorite Item,Returning Customers,2025-04-16,16,1604,342,48,14
+CMP-0029,Exclusive Offer Just for You,New Subscribers,2025-03-23,20,5559,1056,109,44
+CMP-0011,Open for a Surprise!,New Subscribers,2025-03-29,18,4945,1256,416,69
+CMP-0039,Back in Stock: Your Favorite Item,Loyal Customers,2025-05-23,21,7586,2597,867,97
+CMP-0031,Open for a Surprise!,Cart Abandoners,2025-05-27,21,7220,1643,408,101
+CMP-0039,We Miss You – Come Back!,New Subscribers,2025-05-26,19,8671,1417,513,116
+CMP-0037,Last Chance to Save,Cart Abandoners,2025-05-17,12,6975,2122,755,47
+CMP-0002,Last Chance to Save,High Spenders,2025-03-25,13,6293,2251,553,52
+CMP-0013,Your Order Awaits,Cart Abandoners,2025-04-16,9,9574,2996,796,109
+CMP-0027,Your Order Awaits,High Spenders,2025-05-14,13,5926,1561,414,28
+CMP-0034,Special Discount Inside,Loyal Customers,2025-06-10,11,1644,429,60,29
+CMP-0031,Special Discount Inside,New Subscribers,2025-05-21,17,8376,1354,390,78
+CMP-0040,Exclusive Offer Just for You,Loyal Customers,2025-03-26,15,4155,1403,419,58
+CMP-0028,We Miss You – Come Back!,High Spenders,2025-05-07,21,4609,1002,173,30
+CMP-0044,You're Invited – RSVP Now!,New Subscribers,2025-04-19,22,9847,1545,243,11
+CMP-0008,You're Invited – RSVP Now!,High Spenders,2025-05-15,16,5965,1389,383,5
+CMP-0016,We Miss You – Come Back!,Cart Abandoners,2025-04-01,7,7633,2538,264,44
+CMP-0029,Exclusive Offer Just for You,Returning Customers,2025-05-13,9,3127,630,95,17
+CMP-0004,Last Chance to Save,New Subscribers,2025-05-22,11,3516,883,300,17
+CMP-0034,You're Invited – RSVP Now!,Returning Customers,2025-04-30,21,9032,1900,368,104
+CMP-0019,Your Order Awaits,New Subscribers,2025-03-26,13,3817,941,362,30
+CMP-0039,Special Discount Inside,Returning Customers,2025-05-03,20,6204,1194,351,87
+CMP-0046,Back in Stock: Your Favorite Item,High Spenders,2025-04-29,20,5654,880,234,61
+CMP-0041,Back in Stock: Your Favorite Item,Loyal Customers,2025-05-04,11,7995,2325,635,65
+CMP-0020,Free Shipping Ends Tonight,Loyal Customers,2025-06-08,11,5782,1372,207,72
+CMP-0021,Free Shipping Ends Tonight,Returning Customers,2025-05-25,7,5865,1785,503,48
+CMP-0026,Last Chance to Save,New Subscribers,2025-03-31,8,3231,873,233,50
+CMP-0042,Your Order Awaits,New Subscribers,2025-04-16,19,4015,685,90,47
+CMP-0010,Free Shipping Ends Tonight,Returning Customers,2025-06-09,7,2973,602,83,35
+CMP-0008,Last Chance to Save,High Spenders,2025-04-13,13,5942,2100,242,3
+CMP-0039,We Miss You – Come Back!,Returning Customers,2025-04-11,22,4433,634,206,64
+CMP-0031,Don't Miss Out on This Deal!,New Subscribers,2025-03-21,14,6657,1955,461,65
+CMP-0007,Last Chance to Save,Loyal Customers,2025-04-07,12,4861,1461,490,12
+CMP-0026,Back in Stock: Your Favorite Item,Cart Abandoners,2025-04-24,7,8352,2423,418,69
+CMP-0029,You're Invited – RSVP Now!,Returning Customers,2025-04-25,15,6144,1846,191,77
+CMP-0007,Back in Stock: Your Favorite Item,Loyal Customers,2025-05-17,10,5230,1594,194,68
+CMP-0040,Your Order Awaits,Cart Abandoners,2025-04-30,12,3880,1443,298,29
+CMP-0034,We Miss You – Come Back!,Cart Abandoners,2025-04-16,11,5707,1642,290,23
+CMP-0004,Don't Miss Out on This Deal!,New Subscribers,2025-03-26,22,8531,1670,531,36
+CMP-0035,You're Invited – RSVP Now!,Returning Customers,2025-04-18,11,3349,984,126,13
+CMP-0030,Last Chance to Save,New Subscribers,2025-03-24,12,5788,1308,407,29
+CMP-0046,Special Discount Inside,New Subscribers,2025-05-01,17,3432,627,163,23
+CMP-0006,Last Chance to Save,Loyal Customers,2025-04-01,10,3098,929,355,30
+CMP-0008,Back in Stock: Your Favorite Item,New Subscribers,2025-05-31,7,4279,969,264,29
+CMP-0008,Last Chance to Save,High Spenders,2025-05-16,20,9573,1934,674,111
+CMP-0050,Back in Stock: Your Favorite Item,Returning Customers,2025-04-12,9,7420,1302,441,76
+CMP-0049,Last Chance to Save,Returning Customers,2025-05-11,10,4741,637,240,58
+CMP-0014,Exclusive Offer Just for You,Loyal Customers,2025-04-08,8,9470,3392,1070,73
+CMP-0030,Back in Stock: Your Favorite Item,High Spenders,2025-05-03,10,6679,1419,505,125
+CMP-0016,Don't Miss Out on This Deal!,Loyal Customers,2025-05-19,22,5576,2059,646,75
+CMP-0024,Free Shipping Ends Tonight,Loyal Customers,2025-06-09,18,8709,2731,438,137
+CMP-0033,Back in Stock: Your Favorite Item,Returning Customers,2025-04-28,17,9718,2229,747,51
+CMP-0010,You're Invited – RSVP Now!,Returning Customers,2025-03-26,13,5672,644,247,53
+CMP-0022,You're Invited – RSVP Now!,Cart Abandoners,2025-04-20,22,9271,2385,546,19
+CMP-0001,Open for a Surprise!,Cart Abandoners,2025-05-19,9,8693,2652,998,112
+CMP-0008,Open for a Surprise!,Cart Abandoners,2025-06-08,13,7156,2127,224,111
+CMP-0034,Exclusive Offer Just for You,Loyal Customers,2025-04-15,10,8339,2722,892,189
+CMP-0034,Don't Miss Out on This Deal!,Loyal Customers,2025-05-11,14,5366,1877,427,42
+CMP-0018,You're Invited – RSVP Now!,High Spenders,2025-03-28,12,1482,451,87,13
+CMP-0034,We Miss You – Come Back!,Returning Customers,2025-05-21,13,6469,1834,430,26
+CMP-0008,Free Shipping Ends Tonight,Cart Abandoners,2025-04-28,10,3572,1076,361,71
+CMP-0043,Exclusive Offer Just for You,High Spenders,2025-03-24,20,2753,725,79,17
+CMP-0047,Exclusive Offer Just for You,High Spenders,2025-04-25,20,8863,3577,640,83
+CMP-0046,Your Order Awaits,Cart Abandoners,2025-04-24,6,3661,1045,254,16
+CMP-0037,Open for a Surprise!,Returning Customers,2025-05-10,10,3271,895,352,23
+CMP-0017,Open for a Surprise!,Returning Customers,2025-04-02,20,7145,1268,368,74
+CMP-0037,Your Order Awaits,Loyal Customers,2025-05-15,18,5918,1742,177,17
+CMP-0010,Open for a Surprise!,New Subscribers,2025-05-05,10,7670,1530,348,89
+CMP-0004,We Miss You – Come Back!,New Subscribers,2025-05-03,6,8377,1695,448,91
+CMP-0002,Last Chance to Save,Cart Abandoners,2025-04-20,6,7237,1942,637,55
+CMP-0027,Exclusive Offer Just for You,High Spenders,2025-05-08,16,9531,2626,309,97
+CMP-0040,Free Shipping Ends Tonight,High Spenders,2025-05-24,20,5081,1491,366,65
+CMP-0010,We Miss You – Come Back!,Cart Abandoners,2025-06-14,18,2062,511,159,9
+CMP-0011,Your Order Awaits,Returning Customers,2025-05-15,21,8785,2127,462,44
+CMP-0001,Don't Miss Out on This Deal!,Loyal Customers,2025-03-26,15,3986,1316,291,17
+CMP-0045,Back in Stock: Your Favorite Item,Returning Customers,2025-05-29,21,6003,1382,191,75
+CMP-0028,Free Shipping Ends Tonight,Loyal Customers,2025-03-30,18,4733,1677,422,32
+CMP-0028,Last Chance to Save,High Spenders,2025-06-06,8,3234,906,311,32
+CMP-0012,Open for a Surprise!,Cart Abandoners,2025-04-24,11,9289,3228,652,71
+CMP-0040,Don't Miss Out on This Deal!,Cart Abandoners,2025-05-21,11,7132,2266,697,59
+CMP-0004,Open for a Surprise!,New Subscribers,2025-04-06,18,8461,2150,400,7
+CMP-0031,Special Discount Inside,High Spenders,2025-05-05,21,5239,1471,438,35
+CMP-0006,Last Chance to Save,Loyal Customers,2025-03-29,12,1645,405,156,25
+CMP-0004,Your Order Awaits,Cart Abandoners,2025-04-24,12,2144,535,67,33
+CMP-0001,Back in Stock: Your Favorite Item,Loyal Customers,2025-05-27,7,7859,2297,678,120
+CMP-0016,Special Discount Inside,Returning Customers,2025-03-26,13,4379,1248,466,31
+CMP-0019,Open for a Surprise!,New Subscribers,2025-05-24,18,8975,1132,385,67
+CMP-0050,Special Discount Inside,High Spenders,2025-04-21,6,1970,709,127,23
+CMP-0011,Don't Miss Out on This Deal!,High Spenders,2025-05-20,13,9980,3508,1137,122
+CMP-0029,Don't Miss Out on This Deal!,High Spenders,2025-04-19,9,1039,313,61,5
+CMP-0037,You're Invited – RSVP Now!,Loyal Customers,2025-05-26,13,9009,2878,917,70
+CMP-0045,We Miss You – Come Back!,Cart Abandoners,2025-05-12,15,4296,1401,183,57
+CMP-0009,Open for a Surprise!,Returning Customers,2025-03-28,12,3674,732,259,56
+CMP-0009,We Miss You – Come Back!,Returning Customers,2025-05-19,12,9739,2524,907,77
+CMP-0011,Don't Miss Out on This Deal!,High Spenders,2025-05-19,20,8894,3274,637,17
+CMP-0027,Free Shipping Ends Tonight,Cart Abandoners,2025-05-27,18,8517,2747,1096,109
+CMP-0037,Exclusive Offer Just for You,Cart Abandoners,2025-06-18,22,4787,1210,343,57
+CMP-0001,You're Invited – RSVP Now!,High Spenders,2025-04-27,8,3350,862,294,6
+CMP-0040,Don't Miss Out on This Deal!,Loyal Customers,2025-04-02,18,1346,429,102,19
+CMP-0009,Open for a Surprise!,Returning Customers,2025-03-31,7,9774,2165,307,101
+CMP-0002,Last Chance to Save,Cart Abandoners,2025-06-11,11,6971,1727,299,111
+CMP-0014,Special Discount Inside,High Spenders,2025-04-15,20,2934,822,296,50
+CMP-0024,Don't Miss Out on This Deal!,Loyal Customers,2025-05-08,9,4060,1601,484,84
+CMP-0003,Exclusive Offer Just for You,Loyal Customers,2025-06-09,16,2948,909,198,34
+CMP-0026,Back in Stock: Your Favorite Item,Cart Abandoners,2025-04-22,14,5264,1115,359,68
+CMP-0020,Your Order Awaits,Loyal Customers,2025-04-20,17,8428,2332,853,138
+CMP-0045,Your Order Awaits,Cart Abandoners,2025-03-24,15,7301,1814,236,111
+CMP-0012,Special Discount Inside,New Subscribers,2025-05-21,8,7343,1709,515,48
+CMP-0018,You're Invited – RSVP Now!,Returning Customers,2025-05-18,14,2418,392,138,40
+CMP-0028,Don't Miss Out on This Deal!,Loyal Customers,2025-05-23,6,7128,1580,432,78
+CMP-0028,Exclusive Offer Just for You,New Subscribers,2025-06-12,14,4501,763,136,75
+CMP-0002,We Miss You – Come Back!,Loyal Customers,2025-04-01,10,7325,2202,409,19
+CMP-0041,Exclusive Offer Just for You,New Subscribers,2025-03-28,14,6947,1568,298,69
+CMP-0001,Back in Stock: Your Favorite Item,New Subscribers,2025-04-24,11,1039,241,61,11
+CMP-0047,We Miss You – Come Back!,Returning Customers,2025-03-24,7,9475,2005,382,119
+CMP-0022,Last Chance to Save,Returning Customers,2025-04-25,13,1513,313,57,18
+CMP-0001,Special Discount Inside,High Spenders,2025-05-04,7,3943,935,323,53
+CMP-0039,Free Shipping Ends Tonight,Returning Customers,2025-05-14,10,5747,1673,350,16
+CMP-0038,Exclusive Offer Just for You,Cart Abandoners,2025-05-17,20,3832,1517,460,48
+CMP-0043,Open for a Surprise!,Loyal Customers,2025-06-10,19,6493,1746,206,113
+CMP-0038,Special Discount Inside,Loyal Customers,2025-06-05,10,7806,2266,774,109
+CMP-0041,Exclusive Offer Just for You,Cart Abandoners,2025-06-17,16,5019,1305,323,69
+CMP-0032,Free Shipping Ends Tonight,New Subscribers,2025-04-06,13,3620,924,360,47
+CMP-0033,You're Invited – RSVP Now!,New Subscribers,2025-06-17,12,2671,311,80,39
+CMP-0039,Exclusive Offer Just for You,Loyal Customers,2025-05-16,17,9735,2463,372,0
+CMP-0020,Exclusive Offer Just for You,Cart Abandoners,2025-04-10,13,4049,1010,199,55
+CMP-0021,We Miss You – Come Back!,New Subscribers,2025-06-10,20,8129,1481,270,133
+CMP-0031,Back in Stock: Your Favorite Item,High Spenders,2025-06-13,13,1302,317,89,14
+CMP-0025,Last Chance to Save,Loyal Customers,2025-03-21,16,3365,1179,119,49
+CMP-0034,Don't Miss Out on This Deal!,Returning Customers,2025-04-14,11,9202,2140,777,84
+CMP-0016,We Miss You – Come Back!,Loyal Customers,2025-04-07,22,6187,1905,643,64
+CMP-0045,Your Order Awaits,Returning Customers,2025-04-05,13,4398,631,100,73
+CMP-0013,You're Invited – RSVP Now!,Loyal Customers,2025-05-21,20,8659,2662,676,135
+CMP-0017,Exclusive Offer Just for You,New Subscribers,2025-06-17,8,1445,297,48,11
+CMP-0048,Open for a Surprise!,Cart Abandoners,2025-05-22,11,3110,639,153,14
+CMP-0038,Exclusive Offer Just for You,High Spenders,2025-05-06,13,7225,1698,176,105
+CMP-0002,Exclusive Offer Just for You,Returning Customers,2025-05-25,15,4084,932,113,33
+CMP-0034,We Miss You – Come Back!,Loyal Customers,2025-05-11,16,1305,447,119,21
+CMP-0011,Don't Miss Out on This Deal!,New Subscribers,2025-04-26,9,4548,679,123,48
+CMP-0010,Open for a Surprise!,Returning Customers,2025-06-08,15,4970,1066,421,75
+CMP-0031,Don't Miss Out on This Deal!,Cart Abandoners,2025-04-18,20,4801,1101,426,47
+CMP-0045,Don't Miss Out on This Deal!,Returning Customers,2025-04-11,11,4408,1199,232,29
+CMP-0035,Open for a Surprise!,Loyal Customers,2025-04-05,12,4381,1847,498,47
+CMP-0031,Your Order Awaits,Returning Customers,2025-04-01,22,9783,2705,762,47
+CMP-0046,Your Order Awaits,High Spenders,2025-05-01,9,8749,2186,256,94
+CMP-0040,Special Discount Inside,High Spenders,2025-04-04,12,4063,1325,294,45
+CMP-0034,Free Shipping Ends Tonight,Loyal Customers,2025-06-01,14,8075,2318,811,81
+CMP-0015,Last Chance to Save,Loyal Customers,2025-06-10,7,2066,675,158,13
+CMP-0014,Free Shipping Ends Tonight,New Subscribers,2025-06-10,14,7316,1323,430,73
+CMP-0010,Last Chance to Save,High Spenders,2025-06-14,21,5715,1090,138,15
+CMP-0034,Free Shipping Ends Tonight,Returning Customers,2025-05-19,7,8425,1994,575,109
+CMP-0046,Back in Stock: Your Favorite Item,New Subscribers,2025-05-07,7,9303,2574,476,86
+CMP-0017,Exclusive Offer Just for You,Cart Abandoners,2025-05-30,7,2483,777,302,12
+CMP-0033,Open for a Surprise!,Loyal Customers,2025-06-02,7,7529,1795,567,78
+CMP-0026,Your Order Awaits,High Spenders,2025-03-28,6,5113,1370,498,0
+CMP-0015,Open for a Surprise!,Loyal Customers,2025-04-09,18,4426,1089,145,44
+CMP-0002,Open for a Surprise!,Returning Customers,2025-03-25,8,5796,1266,492,47
+CMP-0047,Last Chance to Save,Cart Abandoners,2025-04-19,12,6244,2227,767,89
+CMP-0041,Back in Stock: Your Favorite Item,Loyal Customers,2025-05-25,12,4357,823,255,56
+CMP-0013,Free Shipping Ends Tonight,New Subscribers,2025-06-06,15,6473,1370,534,63
+CMP-0019,Your Order Awaits,Returning Customers,2025-04-26,13,5551,1339,199,104
+CMP-0019,We Miss You – Come Back!,Cart Abandoners,2025-05-23,6,3937,1075,231,38
+CMP-0040,We Miss You – Come Back!,Loyal Customers,2025-05-18,20,3910,874,306,39
+CMP-0025,Free Shipping Ends Tonight,New Subscribers,2025-04-08,15,6627,896,210,103
+CMP-0047,Open for a Surprise!,Loyal Customers,2025-03-24,22,7047,2663,527,45
+CMP-0042,You're Invited – RSVP Now!,Returning Customers,2025-05-02,22,2754,677,169,19
+CMP-0006,Open for a Surprise!,Loyal Customers,2025-04-09,7,9659,3182,815,92
+CMP-0042,Your Order Awaits,Returning Customers,2025-04-03,18,4823,1180,400,72
+CMP-0002,You're Invited – RSVP Now!,High Spenders,2025-05-05,12,4376,864,323,68
+CMP-0042,Last Chance to Save,High Spenders,2025-06-11,8,7455,2108,288,87
+CMP-0018,Special Discount Inside,New Subscribers,2025-05-22,13,5686,1095,274,75
+CMP-0025,Open for a Surprise!,New Subscribers,2025-04-02,12,1399,339,53,5
+CMP-0008,You're Invited – RSVP Now!,New Subscribers,2025-04-11,12,8080,2419,903,28
+CMP-0005,Exclusive Offer Just for You,New Subscribers,2025-06-14,14,8011,1835,478,98
+CMP-0019,Exclusive Offer Just for You,Loyal Customers,2025-04-23,12,3256,927,264,40
+CMP-0030,Exclusive Offer Just for You,Cart Abandoners,2025-03-22,7,3823,950,215,37
+CMP-0009,Your Order Awaits,Returning Customers,2025-06-02,15,9285,2118,308,76
+CMP-0024,You're Invited – RSVP Now!,Cart Abandoners,2025-06-09,18,5739,1680,585,66
+CMP-0028,Exclusive Offer Just for You,High Spenders,2025-05-03,19,4156,1235,261,72
+CMP-0016,Special Discount Inside,Returning Customers,2025-05-21,16,3521,492,158,44
+CMP-0039,We Miss You – Come Back!,Loyal Customers,2025-05-07,6,4625,1060,286,18
+CMP-0025,You're Invited – RSVP Now!,New Subscribers,2025-05-15,9,9668,2099,721,117
+CMP-0029,Back in Stock: Your Favorite Item,Cart Abandoners,2025-03-24,7,4404,1484,551,45
+CMP-0003,Your Order Awaits,Loyal Customers,2025-04-14,14,8603,2542,667,102
+CMP-0001,Last Chance to Save,Loyal Customers,2025-06-05,14,9955,1994,502,156
+CMP-0044,Last Chance to Save,New Subscribers,2025-05-22,20,9817,2042,648,213
+CMP-0012,Special Discount Inside,Loyal Customers,2025-04-13,13,2765,949,214,26
+CMP-0008,Don't Miss Out on This Deal!,Loyal Customers,2025-06-04,6,1878,621,226,1
+CMP-0018,Exclusive Offer Just for You,Loyal Customers,2025-03-21,18,7797,2045,766,32
+CMP-0027,Last Chance to Save,Returning Customers,2025-06-13,17,3070,674,138,54
+CMP-0004,Open for a Surprise!,High Spenders,2025-05-16,16,9793,2534,735,181
+CMP-0033,We Miss You – Come Back!,Cart Abandoners,2025-05-21,17,8587,2271,885,135
+CMP-0007,You're Invited – RSVP Now!,High Spenders,2025-04-05,20,1383,302,89,4
+CMP-0032,Open for a Surprise!,Cart Abandoners,2025-04-24,12,5390,1791,547,35
+CMP-0018,Exclusive Offer Just for You,High Spenders,2025-04-08,15,5259,1129,196,101
+CMP-0013,Last Chance to Save,New Subscribers,2025-04-16,14,5347,1308,328,51
+CMP-0024,Back in Stock: Your Favorite Item,Cart Abandoners,2025-03-29,19,2719,679,137,12
+CMP-0034,Don't Miss Out on This Deal!,New Subscribers,2025-05-13,20,1569,450,135,0
+CMP-0029,Your Order Awaits,Cart Abandoners,2025-04-13,12,2742,716,73,43
+CMP-0001,Back in Stock: Your Favorite Item,New Subscribers,2025-05-21,19,5094,1014,108,16
+CMP-0009,You're Invited – RSVP Now!,Returning Customers,2025-05-21,15,7046,1981,335,30
+CMP-0026,Don't Miss Out on This Deal!,Returning Customers,2025-04-24,16,9090,2024,298,152
+CMP-0029,Free Shipping Ends Tonight,Returning Customers,2025-03-25,8,9231,2479,487,0
+CMP-0041,You're Invited – RSVP Now!,Cart Abandoners,2025-05-07,8,9238,3016,1108,83
+CMP-0037,Open for a Surprise!,New Subscribers,2025-05-22,20,6382,1280,220,0
+CMP-0006,Free Shipping Ends Tonight,Cart Abandoners,2025-04-08,20,1859,353,106,17
+CMP-0031,Special Discount Inside,Returning Customers,2025-06-15,19,2002,504,148,24
+CMP-0047,Special Discount Inside,Loyal Customers,2025-05-10,16,2588,626,127,38
+CMP-0027,Back in Stock: Your Favorite Item,Cart Abandoners,2025-06-12,16,9912,1999,563,186
+CMP-0028,Special Discount Inside,High Spenders,2025-05-22,10,3638,823,154,60
+CMP-0025,Free Shipping Ends Tonight,Cart Abandoners,2025-06-13,10,1842,593,148,34
+CMP-0041,Don't Miss Out on This Deal!,New Subscribers,2025-05-22,22,6601,668,101,99
+CMP-0043,Special Discount Inside,High Spenders,2025-03-31,9,3126,1029,233,26
+CMP-0047,We Miss You – Come Back!,Cart Abandoners,2025-04-11,11,8838,2238,741,58
+CMP-0027,You're Invited – RSVP Now!,High Spenders,2025-06-05,20,9644,2887,646,64
+CMP-0010,We Miss You – Come Back!,Returning Customers,2025-04-26,6,8550,2011,250,101
+CMP-0031,Open for a Surprise!,High Spenders,2025-04-18,9,3362,806,268,40
+CMP-0003,Exclusive Offer Just for You,Returning Customers,2025-06-02,21,4143,813,114,62
+CMP-0028,Open for a Surprise!,New Subscribers,2025-06-17,14,1678,335,58,19
+CMP-0035,You're Invited – RSVP Now!,Loyal Customers,2025-04-13,14,3155,1013,337,53
+CMP-0029,Last Chance to Save,New Subscribers,2025-05-23,17,9853,2400,630,185
+CMP-0047,Open for a Surprise!,Loyal Customers,2025-06-07,22,6959,2322,911,59
+CMP-0003,Back in Stock: Your Favorite Item,Cart Abandoners,2025-04-02,15,9233,2784,643,87
+CMP-0007,Open for a Surprise!,Cart Abandoners,2025-05-24,9,9687,2665,373,112
+CMP-0049,Back in Stock: Your Favorite Item,Returning Customers,2025-05-12,8,9396,2472,421,119
+CMP-0047,Special Discount Inside,High Spenders,2025-05-08,7,9930,2193,545,134
+CMP-0045,Last Chance to Save,Loyal Customers,2025-06-02,6,4845,1386,139,32
+CMP-0040,We Miss You – Come Back!,Cart Abandoners,2025-05-15,21,9171,2785,963,97
+CMP-0030,Free Shipping Ends Tonight,New Subscribers,2025-05-05,12,1181,260,91,15
+CMP-0019,Exclusive Offer Just for You,Cart Abandoners,2025-06-05,21,8204,2522,263,5
+CMP-0024,Back in Stock: Your Favorite Item,Returning Customers,2025-05-10,15,9866,3368,958,111
+CMP-0043,Special Discount Inside,Returning Customers,2025-04-26,21,1220,264,54,11
+CMP-0012,Back in Stock: Your Favorite Item,Returning Customers,2025-04-07,12,9691,2257,365,57
+CMP-0048,Your Order Awaits,High Spenders,2025-05-09,6,2771,707,269,46
+CMP-0039,Free Shipping Ends Tonight,Loyal Customers,2025-03-22,16,7883,3255,705,81
+CMP-0006,Don't Miss Out on This Deal!,New Subscribers,2025-06-16,17,5862,1244,333,74
+CMP-0050,You're Invited – RSVP Now!,New Subscribers,2025-05-05,7,4075,1151,335,30
+CMP-0046,Special Discount Inside,High Spenders,2025-04-06,18,2946,559,143,30
+CMP-0049,Your Order Awaits,Returning Customers,2025-06-02,18,2531,523,163,31
+CMP-0024,Open for a Surprise!,New Subscribers,2025-06-18,7,2719,665,164,35
+CMP-0031,We Miss You – Come Back!,Cart Abandoners,2025-05-17,7,9421,1830,291,110
+CMP-0040,We Miss You – Come Back!,New Subscribers,2025-06-09,21,3696,524,174,21
+CMP-0011,You're Invited – RSVP Now!,New Subscribers,2025-04-07,12,6139,1332,241,120
+CMP-0028,Open for a Surprise!,High Spenders,2025-04-29,13,1929,354,57,0
+CMP-0005,We Miss You – Come Back!,Loyal Customers,2025-06-06,18,6279,2099,424,50
+CMP-0033,You're Invited – RSVP Now!,High Spenders,2025-04-04,8,7522,1027,384,94
+CMP-0012,Your Order Awaits,Returning Customers,2025-03-27,10,3435,673,171,66
+CMP-0009,Exclusive Offer Just for You,New Subscribers,2025-04-19,19,3037,829,320,25
+CMP-0004,Open for a Surprise!,Returning Customers,2025-05-15,12,1042,310,31,6
+CMP-0042,Last Chance to Save,Loyal Customers,2025-06-07,14,5977,1854,547,74
+CMP-0046,Your Order Awaits,Returning Customers,2025-04-12,6,7039,2072,365,111
+CMP-0037,We Miss You – Come Back!,Returning Customers,2025-06-07,15,2355,428,107,2
+CMP-0016,Back in Stock: Your Favorite Item,New Subscribers,2025-04-20,12,5845,1621,558,27
+CMP-0019,Special Discount Inside,Returning Customers,2025-05-06,7,4950,685,244,117
+CMP-0022,We Miss You – Come Back!,Cart Abandoners,2025-04-26,13,1018,277,108,3

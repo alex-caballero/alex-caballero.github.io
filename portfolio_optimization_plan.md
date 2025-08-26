@@ -525,11 +525,11 @@ IF user_activity = "viewed_product" AND product_category = "high_value" THEN
   <tr>
     <td>
       <!-- Dynamic header based on user segment -->
-      {% if customer.segment == 'new' %}
+      {% raw %}{% if customer.segment == 'new' %}
         {% include 'new_customer_header.html' %}
       {% else %}
         {% include 'returning_customer_header.html' %}
-      {% endif %}
+      {% endif %}{% endraw %}
       
       <!-- Personalized product recommendations -->
       <div class="product-recommendations" data-source="{{customer.last_viewed_category}}">
@@ -537,9 +537,9 @@ IF user_activity = "viewed_product" AND product_category = "high_value" THEN
       </div>
       
       <!-- Conditional incentive -->
-      {% if customer.days_since_purchase > 30 %}
+      {% raw %}{% if customer.days_since_purchase > 30 %}
         {% include 'win_back_offer.html' %}
-      {% endif %}
+      {% endif %}{% endraw %}
     </td>
   </tr>
 </table>
